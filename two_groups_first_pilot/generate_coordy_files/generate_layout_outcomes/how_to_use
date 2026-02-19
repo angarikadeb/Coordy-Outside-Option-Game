@@ -1,0 +1,3 @@
+Example to run the code:
+
+python3 ./source/generate_outcomes.py --input ./inputs/outcomes-blue_blue_1-2026-02-19.json --outdir ./outputs --blue-default 1 --red-default 3 --dump-links
