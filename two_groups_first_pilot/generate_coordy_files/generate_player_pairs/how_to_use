@@ -1,0 +1,3 @@
+Example to run the code:
+
+python source\generate_pairing.py --players-input data\players_input.json --rounds 20 --seed 123 --outdir outputs --file-prefix pilot1
