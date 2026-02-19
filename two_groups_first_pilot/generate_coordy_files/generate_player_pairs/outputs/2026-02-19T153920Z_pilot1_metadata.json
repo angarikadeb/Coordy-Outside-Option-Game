@@ -1,0 +1,28 @@
+{
+  "generatedAt": "2026-02-19T15:39:20.984Z",
+  "inputs": {
+    "playersInput": "data\\players_input.json"
+  },
+  "outputs": {
+    "playersOutput": "outputs\\2026-02-19T153920Z_pilot1_players_output.json",
+    "pairingOut": "outputs\\2026-02-19T153920Z_pilot1_pairing.json",
+    "metadataOut": "outputs\\2026-02-19T153920Z_pilot1_metadata.json"
+  },
+  "parameters": {
+    "rounds": 20,
+    "blockSize": 5,
+    "redProp": 0.5,
+    "seed": 123,
+    "pairStatus": "pending",
+    "roundStatus": "pending",
+    "experimentType": "realtime",
+    "pairingMode": "manual",
+    "redGroupName": "Group A",
+    "blueGroupName": "Group B"
+  },
+  "counts": {
+    "nPlayers": 4,
+    "nRed": 2,
+    "nBlue": 2
+  }
+}

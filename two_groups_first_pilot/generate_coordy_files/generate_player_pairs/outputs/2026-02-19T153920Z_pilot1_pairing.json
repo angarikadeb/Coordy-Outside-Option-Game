@@ -1,0 +1,467 @@
+{
+  "experimentType": "realtime",
+  "pairingMode": "manual",
+  "lastUpdated": "2026-02-19T15:39:20.985Z",
+  "rounds": {
+    "round1": {
+      "pairs": {
+        "pair_000": {
+          "createdAt": "2026-02-19T15:39:20.985Z",
+          "layoutId": "red_red_1",
+          "player1Id": "w60c9ozmjr",
+          "player2Id": "fgtkj3dwe6g",
+          "position1": 1,
+          "position2": 2,
+          "status": "pending"
+        },
+        "pair_001": {
+          "createdAt": "2026-02-19T15:39:20.985Z",
+          "layoutId": "blue_blue_1",
+          "player1Id": "wqg5k2hmvvg",
+          "player2Id": "bia00wgwg3",
+          "position1": 1,
+          "position2": 2,
+          "status": "pending"
+        }
+      },
+      "status": "pending"
+    },
+    "round2": {
+      "pairs": {
+        "pair_000": {
+          "createdAt": "2026-02-19T15:39:20.985Z",
+          "layoutId": "red_red_2",
+          "player1Id": "w60c9ozmjr",
+          "player2Id": "fgtkj3dwe6g",
+          "position1": 1,
+          "position2": 2,
+          "status": "pending"
+        },
+        "pair_001": {
+          "createdAt": "2026-02-19T15:39:20.985Z",
+          "layoutId": "blue_blue_2",
+          "player1Id": "wqg5k2hmvvg",
+          "player2Id": "bia00wgwg3",
+          "position1": 1,
+          "position2": 2,
+          "status": "pending"
+        }
+      },
+      "status": "pending"
+    },
+    "round3": {
+      "pairs": {
+        "pair_000": {
+          "createdAt": "2026-02-19T15:39:20.985Z",
+          "layoutId": "red_red_1",
+          "player1Id": "w60c9ozmjr",
+          "player2Id": "fgtkj3dwe6g",
+          "position1": 1,
+          "position2": 2,
+          "status": "pending"
+        },
+        "pair_001": {
+          "createdAt": "2026-02-19T15:39:20.985Z",
+          "layoutId": "blue_blue_1",
+          "player1Id": "wqg5k2hmvvg",
+          "player2Id": "bia00wgwg3",
+          "position1": 1,
+          "position2": 2,
+          "status": "pending"
+        }
+      },
+      "status": "pending"
+    },
+    "round4": {
+      "pairs": {
+        "pair_000": {
+          "createdAt": "2026-02-19T15:39:20.985Z",
+          "layoutId": "red_red_2",
+          "player1Id": "w60c9ozmjr",
+          "player2Id": "fgtkj3dwe6g",
+          "position1": 1,
+          "position2": 2,
+          "status": "pending"
+        },
+        "pair_001": {
+          "createdAt": "2026-02-19T15:39:20.985Z",
+          "layoutId": "blue_blue_2",
+          "player1Id": "wqg5k2hmvvg",
+          "player2Id": "bia00wgwg3",
+          "position1": 1,
+          "position2": 2,
+          "status": "pending"
+        }
+      },
+      "status": "pending"
+    },
+    "round5": {
+      "pairs": {
+        "pair_000": {
+          "createdAt": "2026-02-19T15:39:20.985Z",
+          "layoutId": "red_red_1",
+          "player1Id": "w60c9ozmjr",
+          "player2Id": "fgtkj3dwe6g",
+          "position1": 1,
+          "position2": 2,
+          "status": "pending"
+        },
+        "pair_001": {
+          "createdAt": "2026-02-19T15:39:20.985Z",
+          "layoutId": "blue_blue_1",
+          "player1Id": "wqg5k2hmvvg",
+          "player2Id": "bia00wgwg3",
+          "position1": 1,
+          "position2": 2,
+          "status": "pending"
+        }
+      },
+      "status": "pending"
+    },
+    "round6": {
+      "pairs": {
+        "pair_000": {
+          "createdAt": "2026-02-19T15:39:20.985Z",
+          "layoutId": "red_blue_2",
+          "player1Id": "w60c9ozmjr",
+          "player2Id": "bia00wgwg3",
+          "position1": 1,
+          "position2": 2,
+          "status": "pending"
+        },
+        "pair_001": {
+          "createdAt": "2026-02-19T15:39:20.985Z",
+          "layoutId": "red_blue_2",
+          "player1Id": "fgtkj3dwe6g",
+          "player2Id": "wqg5k2hmvvg",
+          "position1": 1,
+          "position2": 2,
+          "status": "pending"
+        }
+      },
+      "status": "pending"
+    },
+    "round7": {
+      "pairs": {
+        "pair_000": {
+          "createdAt": "2026-02-19T15:39:20.985Z",
+          "layoutId": "red_blue_1",
+          "player1Id": "w60c9ozmjr",
+          "player2Id": "bia00wgwg3",
+          "position1": 1,
+          "position2": 2,
+          "status": "pending"
+        },
+        "pair_001": {
+          "createdAt": "2026-02-19T15:39:20.985Z",
+          "layoutId": "red_blue_1",
+          "player1Id": "fgtkj3dwe6g",
+          "player2Id": "wqg5k2hmvvg",
+          "position1": 1,
+          "position2": 2,
+          "status": "pending"
+        }
+      },
+      "status": "pending"
+    },
+    "round8": {
+      "pairs": {
+        "pair_000": {
+          "createdAt": "2026-02-19T15:39:20.985Z",
+          "layoutId": "red_blue_2",
+          "player1Id": "w60c9ozmjr",
+          "player2Id": "bia00wgwg3",
+          "position1": 1,
+          "position2": 2,
+          "status": "pending"
+        },
+        "pair_001": {
+          "createdAt": "2026-02-19T15:39:20.985Z",
+          "layoutId": "red_blue_2",
+          "player1Id": "fgtkj3dwe6g",
+          "player2Id": "wqg5k2hmvvg",
+          "position1": 1,
+          "position2": 2,
+          "status": "pending"
+        }
+      },
+      "status": "pending"
+    },
+    "round9": {
+      "pairs": {
+        "pair_000": {
+          "createdAt": "2026-02-19T15:39:20.985Z",
+          "layoutId": "red_blue_1",
+          "player1Id": "w60c9ozmjr",
+          "player2Id": "bia00wgwg3",
+          "position1": 1,
+          "position2": 2,
+          "status": "pending"
+        },
+        "pair_001": {
+          "createdAt": "2026-02-19T15:39:20.985Z",
+          "layoutId": "red_blue_1",
+          "player1Id": "fgtkj3dwe6g",
+          "player2Id": "wqg5k2hmvvg",
+          "position1": 1,
+          "position2": 2,
+          "status": "pending"
+        }
+      },
+      "status": "pending"
+    },
+    "round10": {
+      "pairs": {
+        "pair_000": {
+          "createdAt": "2026-02-19T15:39:20.985Z",
+          "layoutId": "red_blue_2",
+          "player1Id": "w60c9ozmjr",
+          "player2Id": "bia00wgwg3",
+          "position1": 1,
+          "position2": 2,
+          "status": "pending"
+        },
+        "pair_001": {
+          "createdAt": "2026-02-19T15:39:20.985Z",
+          "layoutId": "red_blue_2",
+          "player1Id": "fgtkj3dwe6g",
+          "player2Id": "wqg5k2hmvvg",
+          "position1": 1,
+          "position2": 2,
+          "status": "pending"
+        }
+      },
+      "status": "pending"
+    },
+    "round11": {
+      "pairs": {
+        "pair_000": {
+          "createdAt": "2026-02-19T15:39:20.985Z",
+          "layoutId": "red_red_1",
+          "player1Id": "fgtkj3dwe6g",
+          "player2Id": "w60c9ozmjr",
+          "position1": 1,
+          "position2": 2,
+          "status": "pending"
+        },
+        "pair_001": {
+          "createdAt": "2026-02-19T15:39:20.985Z",
+          "layoutId": "blue_blue_1",
+          "player1Id": "wqg5k2hmvvg",
+          "player2Id": "bia00wgwg3",
+          "position1": 1,
+          "position2": 2,
+          "status": "pending"
+        }
+      },
+      "status": "pending"
+    },
+    "round12": {
+      "pairs": {
+        "pair_000": {
+          "createdAt": "2026-02-19T15:39:20.985Z",
+          "layoutId": "red_red_2",
+          "player1Id": "fgtkj3dwe6g",
+          "player2Id": "w60c9ozmjr",
+          "position1": 1,
+          "position2": 2,
+          "status": "pending"
+        },
+        "pair_001": {
+          "createdAt": "2026-02-19T15:39:20.985Z",
+          "layoutId": "blue_blue_2",
+          "player1Id": "wqg5k2hmvvg",
+          "player2Id": "bia00wgwg3",
+          "position1": 1,
+          "position2": 2,
+          "status": "pending"
+        }
+      },
+      "status": "pending"
+    },
+    "round13": {
+      "pairs": {
+        "pair_000": {
+          "createdAt": "2026-02-19T15:39:20.985Z",
+          "layoutId": "red_red_1",
+          "player1Id": "fgtkj3dwe6g",
+          "player2Id": "w60c9ozmjr",
+          "position1": 1,
+          "position2": 2,
+          "status": "pending"
+        },
+        "pair_001": {
+          "createdAt": "2026-02-19T15:39:20.985Z",
+          "layoutId": "blue_blue_1",
+          "player1Id": "wqg5k2hmvvg",
+          "player2Id": "bia00wgwg3",
+          "position1": 1,
+          "position2": 2,
+          "status": "pending"
+        }
+      },
+      "status": "pending"
+    },
+    "round14": {
+      "pairs": {
+        "pair_000": {
+          "createdAt": "2026-02-19T15:39:20.985Z",
+          "layoutId": "red_red_2",
+          "player1Id": "fgtkj3dwe6g",
+          "player2Id": "w60c9ozmjr",
+          "position1": 1,
+          "position2": 2,
+          "status": "pending"
+        },
+        "pair_001": {
+          "createdAt": "2026-02-19T15:39:20.985Z",
+          "layoutId": "blue_blue_2",
+          "player1Id": "wqg5k2hmvvg",
+          "player2Id": "bia00wgwg3",
+          "position1": 1,
+          "position2": 2,
+          "status": "pending"
+        }
+      },
+      "status": "pending"
+    },
+    "round15": {
+      "pairs": {
+        "pair_000": {
+          "createdAt": "2026-02-19T15:39:20.985Z",
+          "layoutId": "red_red_1",
+          "player1Id": "fgtkj3dwe6g",
+          "player2Id": "w60c9ozmjr",
+          "position1": 1,
+          "position2": 2,
+          "status": "pending"
+        },
+        "pair_001": {
+          "createdAt": "2026-02-19T15:39:20.985Z",
+          "layoutId": "blue_blue_1",
+          "player1Id": "wqg5k2hmvvg",
+          "player2Id": "bia00wgwg3",
+          "position1": 1,
+          "position2": 2,
+          "status": "pending"
+        }
+      },
+      "status": "pending"
+    },
+    "round16": {
+      "pairs": {
+        "pair_000": {
+          "createdAt": "2026-02-19T15:39:20.985Z",
+          "layoutId": "red_blue_2",
+          "player1Id": "fgtkj3dwe6g",
+          "player2Id": "wqg5k2hmvvg",
+          "position1": 1,
+          "position2": 2,
+          "status": "pending"
+        },
+        "pair_001": {
+          "createdAt": "2026-02-19T15:39:20.985Z",
+          "layoutId": "red_blue_2",
+          "player1Id": "w60c9ozmjr",
+          "player2Id": "bia00wgwg3",
+          "position1": 1,
+          "position2": 2,
+          "status": "pending"
+        }
+      },
+      "status": "pending"
+    },
+    "round17": {
+      "pairs": {
+        "pair_000": {
+          "createdAt": "2026-02-19T15:39:20.985Z",
+          "layoutId": "red_blue_1",
+          "player1Id": "fgtkj3dwe6g",
+          "player2Id": "wqg5k2hmvvg",
+          "position1": 1,
+          "position2": 2,
+          "status": "pending"
+        },
+        "pair_001": {
+          "createdAt": "2026-02-19T15:39:20.985Z",
+          "layoutId": "red_blue_1",
+          "player1Id": "w60c9ozmjr",
+          "player2Id": "bia00wgwg3",
+          "position1": 1,
+          "position2": 2,
+          "status": "pending"
+        }
+      },
+      "status": "pending"
+    },
+    "round18": {
+      "pairs": {
+        "pair_000": {
+          "createdAt": "2026-02-19T15:39:20.985Z",
+          "layoutId": "red_blue_2",
+          "player1Id": "fgtkj3dwe6g",
+          "player2Id": "wqg5k2hmvvg",
+          "position1": 1,
+          "position2": 2,
+          "status": "pending"
+        },
+        "pair_001": {
+          "createdAt": "2026-02-19T15:39:20.985Z",
+          "layoutId": "red_blue_2",
+          "player1Id": "w60c9ozmjr",
+          "player2Id": "bia00wgwg3",
+          "position1": 1,
+          "position2": 2,
+          "status": "pending"
+        }
+      },
+      "status": "pending"
+    },
+    "round19": {
+      "pairs": {
+        "pair_000": {
+          "createdAt": "2026-02-19T15:39:20.985Z",
+          "layoutId": "red_blue_1",
+          "player1Id": "fgtkj3dwe6g",
+          "player2Id": "wqg5k2hmvvg",
+          "position1": 1,
+          "position2": 2,
+          "status": "pending"
+        },
+        "pair_001": {
+          "createdAt": "2026-02-19T15:39:20.985Z",
+          "layoutId": "red_blue_1",
+          "player1Id": "w60c9ozmjr",
+          "player2Id": "bia00wgwg3",
+          "position1": 1,
+          "position2": 2,
+          "status": "pending"
+        }
+      },
+      "status": "pending"
+    },
+    "round20": {
+      "pairs": {
+        "pair_000": {
+          "createdAt": "2026-02-19T15:39:20.985Z",
+          "layoutId": "red_blue_2",
+          "player1Id": "fgtkj3dwe6g",
+          "player2Id": "wqg5k2hmvvg",
+          "position1": 1,
+          "position2": 2,
+          "status": "pending"
+        },
+        "pair_001": {
+          "createdAt": "2026-02-19T15:39:20.985Z",
+          "layoutId": "red_blue_2",
+          "player1Id": "w60c9ozmjr",
+          "player2Id": "bia00wgwg3",
+          "position1": 1,
+          "position2": 2,
+          "status": "pending"
+        }
+      },
+      "status": "pending"
+    }
+  }
+}

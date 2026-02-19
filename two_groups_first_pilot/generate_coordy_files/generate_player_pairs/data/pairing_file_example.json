@@ -1,0 +1,327 @@
+{
+  "experimentType": "realtime",
+  "lastUpdated": "2026-01-22T15:51:03.237Z",
+  "pairingMode": "manual",
+  "rounds": {
+    "round1": {
+      "pairs": {
+        "pair_000": {
+          "createdAt": "2026-01-22T15:51:03.236Z",
+          "layoutId": "copy_A1",
+          "player1Id": "fzmrcghrhge",
+          "player2Id": "0a9my6kciut",
+          "position1": 2,
+          "position2": 1,
+          "status": "pending"
+        },
+        "pair_001": {
+          "createdAt": "2026-01-22T15:51:03.236Z",
+          "layoutId": "copy_A1",
+          "player1Id": "28pf033j3va",
+          "player2Id": "mtolp0jnao",
+          "position1": 1,
+          "position2": 2,
+          "status": "pending"
+        },
+        "pair_002": {
+          "createdAt": "2026-01-22T15:51:03.236Z",
+          "layoutId": "copy_A1",
+          "player1Id": "wqg5k2hmvvg",
+          "player2Id": "bia00wgwg3",
+          "position1": 2,
+          "position2": 1,
+          "status": "pending"
+        }
+      },
+      "status": "pending"
+    },
+    "round10": {
+      "pairs": {
+        "pair_000": {
+          "createdAt": "2026-01-22T15:51:03.237Z",
+          "layoutId": "copy_A5",
+          "player1Id": "fzmrcghrhge",
+          "player2Id": "28pf033j3va",
+          "position1": 1,
+          "position2": 2,
+          "status": "pending"
+        },
+        "pair_001": {
+          "createdAt": "2026-01-22T15:51:03.237Z",
+          "layoutId": "copy_A5",
+          "player1Id": "bia00wgwg3",
+          "player2Id": "0a9my6kciut",
+          "position1": 1,
+          "position2": 2,
+          "status": "pending"
+        },
+        "pair_002": {
+          "createdAt": "2026-01-22T15:51:03.237Z",
+          "layoutId": "copy_A5",
+          "player1Id": "wqg5k2hmvvg",
+          "player2Id": "mtolp0jnao",
+          "position1": 2,
+          "position2": 1,
+          "status": "pending"
+        }
+      },
+      "status": "pending"
+    },
+    "round2": {
+      "pairs": {
+        "pair_000": {
+          "createdAt": "2026-01-22T15:51:03.236Z",
+          "layoutId": "copy_A10",
+          "player1Id": "wqg5k2hmvvg",
+          "player2Id": "28pf033j3va",
+          "position1": 2,
+          "position2": 1,
+          "status": "pending"
+        },
+        "pair_001": {
+          "createdAt": "2026-01-22T15:51:03.236Z",
+          "layoutId": "copy_A10",
+          "player1Id": "0a9my6kciut",
+          "player2Id": "mtolp0jnao",
+          "position1": 1,
+          "position2": 2,
+          "status": "pending"
+        },
+        "pair_002": {
+          "createdAt": "2026-01-22T15:51:03.236Z",
+          "layoutId": "copy_A10",
+          "player1Id": "bia00wgwg3",
+          "player2Id": "fzmrcghrhge",
+          "position1": 1,
+          "position2": 2,
+          "status": "pending"
+        }
+      },
+      "status": "pending"
+    },
+    "round3": {
+      "pairs": {
+        "pair_000": {
+          "createdAt": "2026-01-22T15:51:03.237Z",
+          "layoutId": "copy_A11",
+          "player1Id": "mtolp0jnao",
+          "player2Id": "0a9my6kciut",
+          "position1": 1,
+          "position2": 2,
+          "status": "pending"
+        },
+        "pair_001": {
+          "createdAt": "2026-01-22T15:51:03.237Z",
+          "layoutId": "copy_A11",
+          "player1Id": "fzmrcghrhge",
+          "player2Id": "28pf033j3va",
+          "position1": 2,
+          "position2": 1,
+          "status": "pending"
+        },
+        "pair_002": {
+          "createdAt": "2026-01-22T15:51:03.237Z",
+          "layoutId": "copy_A11",
+          "player1Id": "bia00wgwg3",
+          "player2Id": "wqg5k2hmvvg",
+          "position1": 2,
+          "position2": 1,
+          "status": "pending"
+        }
+      },
+      "status": "pending"
+    },
+    "round4": {
+      "pairs": {
+        "pair_000": {
+          "createdAt": "2026-01-22T15:51:03.237Z",
+          "layoutId": "copy_A13",
+          "player1Id": "0a9my6kciut",
+          "player2Id": "bia00wgwg3",
+          "position1": 1,
+          "position2": 2,
+          "status": "pending"
+        },
+        "pair_001": {
+          "createdAt": "2026-01-22T15:51:03.237Z",
+          "layoutId": "copy_A13",
+          "player1Id": "28pf033j3va",
+          "player2Id": "fzmrcghrhge",
+          "position1": 1,
+          "position2": 2,
+          "status": "pending"
+        },
+        "pair_002": {
+          "createdAt": "2026-01-22T15:51:03.237Z",
+          "layoutId": "copy_A13",
+          "player1Id": "wqg5k2hmvvg",
+          "player2Id": "mtolp0jnao",
+          "position1": 1,
+          "position2": 2,
+          "status": "pending"
+        }
+      },
+      "status": "pending"
+    },
+    "round5": {
+      "pairs": {
+        "pair_000": {
+          "createdAt": "2026-01-22T15:51:03.237Z",
+          "layoutId": "copy_A15",
+          "player1Id": "0a9my6kciut",
+          "player2Id": "wqg5k2hmvvg",
+          "position1": 1,
+          "position2": 2,
+          "status": "pending"
+        },
+        "pair_001": {
+          "createdAt": "2026-01-22T15:51:03.237Z",
+          "layoutId": "copy_A15",
+          "player1Id": "mtolp0jnao",
+          "player2Id": "fzmrcghrhge",
+          "position1": 2,
+          "position2": 1,
+          "status": "pending"
+        },
+        "pair_002": {
+          "createdAt": "2026-01-22T15:51:03.237Z",
+          "layoutId": "copy_A15",
+          "player1Id": "28pf033j3va",
+          "player2Id": "bia00wgwg3",
+          "position1": 2,
+          "position2": 1,
+          "status": "pending"
+        }
+      },
+      "status": "pending"
+    },
+    "round6": {
+      "pairs": {
+        "pair_000": {
+          "createdAt": "2026-01-22T15:51:03.237Z",
+          "layoutId": "copy_A17",
+          "player1Id": "28pf033j3va",
+          "player2Id": "bia00wgwg3",
+          "position1": 2,
+          "position2": 1,
+          "status": "pending"
+        },
+        "pair_001": {
+          "createdAt": "2026-01-22T15:51:03.237Z",
+          "layoutId": "copy_A17",
+          "player1Id": "0a9my6kciut",
+          "player2Id": "fzmrcghrhge",
+          "position1": 2,
+          "position2": 1,
+          "status": "pending"
+        },
+        "pair_002": {
+          "createdAt": "2026-01-22T15:51:03.237Z",
+          "layoutId": "copy_A17",
+          "player1Id": "mtolp0jnao",
+          "player2Id": "wqg5k2hmvvg",
+          "position1": 1,
+          "position2": 2,
+          "status": "pending"
+        }
+      },
+      "status": "pending"
+    },
+    "round7": {
+      "pairs": {
+        "pair_000": {
+          "createdAt": "2026-01-22T15:51:03.237Z",
+          "layoutId": "copy_A18",
+          "player1Id": "0a9my6kciut",
+          "player2Id": "28pf033j3va",
+          "position1": 2,
+          "position2": 1,
+          "status": "pending"
+        },
+        "pair_001": {
+          "createdAt": "2026-01-22T15:51:03.237Z",
+          "layoutId": "copy_A18",
+          "player1Id": "fzmrcghrhge",
+          "player2Id": "wqg5k2hmvvg",
+          "position1": 1,
+          "position2": 2,
+          "status": "pending"
+        },
+        "pair_002": {
+          "createdAt": "2026-01-22T15:51:03.237Z",
+          "layoutId": "copy_A18",
+          "player1Id": "mtolp0jnao",
+          "player2Id": "bia00wgwg3",
+          "position1": 2,
+          "position2": 1,
+          "status": "pending"
+        }
+      },
+      "status": "pending"
+    },
+    "round8": {
+      "pairs": {
+        "pair_000": {
+          "createdAt": "2026-01-22T15:51:03.237Z",
+          "layoutId": "copy_A2",
+          "player1Id": "28pf033j3va",
+          "player2Id": "mtolp0jnao",
+          "position1": 2,
+          "position2": 1,
+          "status": "pending"
+        },
+        "pair_001": {
+          "createdAt": "2026-01-22T15:51:03.237Z",
+          "layoutId": "copy_A2",
+          "player1Id": "0a9my6kciut",
+          "player2Id": "bia00wgwg3",
+          "position1": 1,
+          "position2": 2,
+          "status": "pending"
+        },
+        "pair_002": {
+          "createdAt": "2026-01-22T15:51:03.237Z",
+          "layoutId": "copy_A2",
+          "player1Id": "fzmrcghrhge",
+          "player2Id": "wqg5k2hmvvg",
+          "position1": 2,
+          "position2": 1,
+          "status": "pending"
+        }
+      },
+      "status": "pending"
+    },
+    "round9": {
+      "pairs": {
+        "pair_000": {
+          "createdAt": "2026-01-22T15:51:03.237Z",
+          "layoutId": "copy_A3",
+          "player1Id": "wqg5k2hmvvg",
+          "player2Id": "fzmrcghrhge",
+          "position1": 2,
+          "position2": 1,
+          "status": "pending"
+        },
+        "pair_001": {
+          "createdAt": "2026-01-22T15:51:03.237Z",
+          "layoutId": "copy_A3",
+          "player1Id": "28pf033j3va",
+          "player2Id": "bia00wgwg3",
+          "position1": 2,
+          "position2": 1,
+          "status": "pending"
+        },
+        "pair_002": {
+          "createdAt": "2026-01-22T15:51:03.237Z",
+          "layoutId": "copy_A3",
+          "player1Id": "0a9my6kciut",
+          "player2Id": "mtolp0jnao",
+          "position1": 1,
+          "position2": 2,
+          "status": "pending"
+        }
+      },
+      "status": "pending"
+    }
+  }
+}

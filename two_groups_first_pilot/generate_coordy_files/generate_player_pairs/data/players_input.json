@@ -1,0 +1,46 @@
+{
+  "bia00wgwg3": {
+    "name": "Gentle Lynx",
+    "avatar": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/avatars%2FBlue_Avatar_COORDY.png?alt=media&token=4b5f53a9-0be3-420a-b4c9-4e8c01d8b770",
+    "badge": "",
+    "other": "Gui2",
+    "group": {
+      "allowedRole": "P2",
+      "name": "Group A",
+      "color": "red"
+    }
+  },
+  "wqg5k2hmvvg": {
+    "name": "Swift Dolphin",
+    "avatar": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/avatars%2FRed_Avatar_COORDY.png?alt=media&token=5d4727d6-7d46-4d5f-b534-c18388803362",
+    "badge": "",
+    "other": "Gui1",
+    "group": {
+      "color": "blue",
+      "name": "Group B",
+      "allowedRole": "P1"
+    }
+  },
+  "w60c9ozmjr": {
+    "name": "Mighty Klimt",
+    "avatar": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/avatars%2FRed_Avatar_COORDY.png?alt=media&token=5d4727d6-7d46-4d5f-b534-c18388803362",
+    "badge": "",
+    "other": "Samuel",
+    "group": {
+      "color": "blue",
+      "name": "Group B",
+      "allowedRole": "P1"
+    }
+  },
+  "fgtkj3dwe6g": {
+    "name": "Happy Dolphin",
+    "avatar": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/avatars%2FBlue_Avatar_COORDY.png?alt=media&token=4b5f53a9-0be3-420a-b4c9-4e8c01d8b770",
+    "badge": "",
+    "other": "Angarika",
+    "group": {
+      "allowedRole": "P2",
+      "color": "red",
+      "name": "Group A"
+    }
+  }
+}

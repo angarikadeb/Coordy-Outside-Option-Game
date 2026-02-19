@@ -1,0 +1,1460 @@
+{
+  "P1_1_P2_1": {
+    "feedback": {
+      "text": "Success! One player chose 1 and the other 1.",
+      "pointsOne": 1,
+      "pointsTwo": 1,
+      "historyImage1": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769018173301_P1_1_P2_1.png?alt=media&token=13f61d04-abd1-4ede-8921-22515c977ad7",
+      "historyImage2": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769018173301_P1_1_P2_1.png?alt=media&token=13f61d04-abd1-4ede-8921-22515c977ad7"
+    }
+  },
+  "P2_1_P1_1": {
+    "feedback": {
+      "text": "Success! One player chose 1 and the other 1.",
+      "pointsOne": 1,
+      "pointsTwo": 1,
+      "historyImage1": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769018173301_P1_1_P2_1.png?alt=media&token=13f61d04-abd1-4ede-8921-22515c977ad7",
+      "historyImage2": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769018173301_P1_1_P2_1.png?alt=media&token=13f61d04-abd1-4ede-8921-22515c977ad7"
+    }
+  },
+  "P1_1_P2_2": {
+    "feedback": {
+      "text": "Success! One player chose 1 and the other 2.",
+      "pointsOne": 1,
+      "pointsTwo": 2,
+      "historyImage1": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769019730578_P1_1_P2_2.png?alt=media&token=975b9bc1-d850-411e-935c-40a123efa6e8",
+      "historyImage2": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769018976998_P1_2_P2_1.png?alt=media&token=e6948065-4fd3-4c20-a250-64568c96ae43"
+    }
+  },
+  "P2_2_P1_1": {
+    "feedback": {
+      "text": "Success! One player chose 1 and the other 2.",
+      "pointsOne": 1,
+      "pointsTwo": 2,
+      "historyImage1": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769019730578_P1_1_P2_2.png?alt=media&token=975b9bc1-d850-411e-935c-40a123efa6e8",
+      "historyImage2": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769018976998_P1_2_P2_1.png?alt=media&token=e6948065-4fd3-4c20-a250-64568c96ae43"
+    }
+  },
+  "P1_1_P2_3": {
+    "feedback": {
+      "text": "Success! One player chose 1 and the other 3.",
+      "pointsOne": 1,
+      "pointsTwo": 3,
+      "historyImage1": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769019970889_P1_1_P2_3.png?alt=media&token=9be2784b-4e95-421d-9bb3-0ff6b280d11e",
+      "historyImage2": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769019662795_P1_3_P2_1.png?alt=media&token=4ce5af0c-5832-4bb7-b228-ec4d04071a6e"
+    }
+  },
+  "P2_3_P1_1": {
+    "feedback": {
+      "text": "Success! One player chose 1 and the other 3.",
+      "pointsOne": 1,
+      "pointsTwo": 3,
+      "historyImage1": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769019970889_P1_1_P2_3.png?alt=media&token=9be2784b-4e95-421d-9bb3-0ff6b280d11e",
+      "historyImage2": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769019662795_P1_3_P2_1.png?alt=media&token=4ce5af0c-5832-4bb7-b228-ec4d04071a6e"
+    }
+  },
+  "P1_1_P2_4": {
+    "feedback": {
+      "text": "Success! One player chose 1 and the other 4.",
+      "pointsOne": 1,
+      "pointsTwo": 4,
+      "historyImage1": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769016418864_P1_1_P2_4.png?alt=media&token=8e4e8739-cdd9-4662-8981-5772c92f5573",
+      "historyImage2": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769019756344_P1_4_P2_1.png?alt=media&token=edf7af63-7169-465a-a01a-d6b38062c17b"
+    }
+  },
+  "P2_4_P1_1": {
+    "feedback": {
+      "text": "Success! One player chose 1 and the other 4.",
+      "pointsOne": 1,
+      "pointsTwo": 4,
+      "historyImage1": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769016418864_P1_1_P2_4.png?alt=media&token=8e4e8739-cdd9-4662-8981-5772c92f5573",
+      "historyImage2": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769019756344_P1_4_P2_1.png?alt=media&token=edf7af63-7169-465a-a01a-d6b38062c17b"
+    }
+  },
+  "P1_1_P2_5": {
+    "feedback": {
+      "text": "Success! One player chose 1 and the other 5.",
+      "pointsOne": 1,
+      "pointsTwo": 5,
+      "historyImage1": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769016898186_P1_1_P2_5.png?alt=media&token=ce60c969-07dc-4aca-8899-c2db472fc1cc",
+      "historyImage2": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769019380793_P1_5_P2_1.png?alt=media&token=6d8c94ec-4374-456c-8398-edbaa33d67c7"
+    }
+  },
+  "P2_5_P1_1": {
+    "feedback": {
+      "text": "Success! One player chose 1 and the other 5.",
+      "pointsOne": 1,
+      "pointsTwo": 5,
+      "historyImage1": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769016898186_P1_1_P2_5.png?alt=media&token=ce60c969-07dc-4aca-8899-c2db472fc1cc",
+      "historyImage2": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769019380793_P1_5_P2_1.png?alt=media&token=6d8c94ec-4374-456c-8398-edbaa33d67c7"
+    }
+  },
+  "P1_1_P2_6": {
+    "feedback": {
+      "text": "Success! One player chose 1 and the other 6.",
+      "pointsOne": 1,
+      "pointsTwo": 6,
+      "historyImage1": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769017049414_P1_1_P2_6.png?alt=media&token=86d1b9a4-3307-424c-ae6b-332b0ad8c8ab",
+      "historyImage2": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769018071631_P1_6_P2_1.png?alt=media&token=02bb3167-af1f-4577-85d9-37ae9276504b"
+    }
+  },
+  "P2_6_P1_1": {
+    "feedback": {
+      "text": "Success! One player chose 1 and the other 6.",
+      "pointsOne": 1,
+      "pointsTwo": 6,
+      "historyImage1": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769017049414_P1_1_P2_6.png?alt=media&token=86d1b9a4-3307-424c-ae6b-332b0ad8c8ab",
+      "historyImage2": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769018071631_P1_6_P2_1.png?alt=media&token=02bb3167-af1f-4577-85d9-37ae9276504b"
+    }
+  },
+  "P1_1_P2_7": {
+    "feedback": {
+      "text": "Success! One player chose 1 and the other 7.",
+      "pointsOne": 1,
+      "pointsTwo": 7,
+      "historyImage1": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769019162395_P1_1_P2_7.png?alt=media&token=de6c9083-586d-4a3c-94bb-ab2292746f08",
+      "historyImage2": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769016792165_P1_7_P2_1.png?alt=media&token=9abca73a-b114-4a4c-ae03-eccd182ba3d7"
+    }
+  },
+  "P2_7_P1_1": {
+    "feedback": {
+      "text": "Success! One player chose 1 and the other 7.",
+      "pointsOne": 1,
+      "pointsTwo": 7,
+      "historyImage1": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769019162395_P1_1_P2_7.png?alt=media&token=de6c9083-586d-4a3c-94bb-ab2292746f08",
+      "historyImage2": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769016792165_P1_7_P2_1.png?alt=media&token=9abca73a-b114-4a4c-ae03-eccd182ba3d7"
+    }
+  },
+  "P1_1_P2_8": {
+    "feedback": {
+      "text": "Success! One player chose 1 and the other 8.",
+      "pointsOne": 1,
+      "pointsTwo": 8,
+      "historyImage1": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769019317501_P1_1_P2_8.png?alt=media&token=45a34a40-4606-4d5f-a2b4-80c7de6351dd",
+      "historyImage2": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769020149015_P1_8_P2_1.png?alt=media&token=e6027c65-9623-4fb0-95da-f346fa2c2b53"
+    }
+  },
+  "P2_8_P1_1": {
+    "feedback": {
+      "text": "Success! One player chose 1 and the other 8.",
+      "pointsOne": 1,
+      "pointsTwo": 8,
+      "historyImage1": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769019317501_P1_1_P2_8.png?alt=media&token=45a34a40-4606-4d5f-a2b4-80c7de6351dd",
+      "historyImage2": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769020149015_P1_8_P2_1.png?alt=media&token=e6027c65-9623-4fb0-95da-f346fa2c2b53"
+    }
+  },
+  "P1_1_P2_9": {
+    "feedback": {
+      "text": "Success! One player chose 1 and the other 9.",
+      "pointsOne": 1,
+      "pointsTwo": 9,
+      "historyImage1": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769018096637_P1_1_P2_9.png?alt=media&token=cd614b5f-a46f-41ed-ba32-62a5d51e72b1",
+      "historyImage2": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769019290204_P1_9_P2_1.png?alt=media&token=47291c01-44a5-41d7-bd24-0c1c0d15852e"
+    }
+  },
+  "P2_9_P1_1": {
+    "feedback": {
+      "text": "Success! One player chose 1 and the other 9.",
+      "pointsOne": 1,
+      "pointsTwo": 9,
+      "historyImage1": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769018096637_P1_1_P2_9.png?alt=media&token=cd614b5f-a46f-41ed-ba32-62a5d51e72b1",
+      "historyImage2": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769019290204_P1_9_P2_1.png?alt=media&token=47291c01-44a5-41d7-bd24-0c1c0d15852e"
+    }
+  },
+  "P1_2_P2_1": {
+    "feedback": {
+      "text": "Success! One player chose 2 and the other 1.",
+      "pointsOne": 2,
+      "pointsTwo": 1,
+      "historyImage1": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769018976998_P1_2_P2_1.png?alt=media&token=e6948065-4fd3-4c20-a250-64568c96ae43",
+      "historyImage2": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769019730578_P1_1_P2_2.png?alt=media&token=975b9bc1-d850-411e-935c-40a123efa6e8"
+    }
+  },
+  "P2_1_P1_2": {
+    "feedback": {
+      "text": "Success! One player chose 2 and the other 1.",
+      "pointsOne": 2,
+      "pointsTwo": 1,
+      "historyImage1": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769018976998_P1_2_P2_1.png?alt=media&token=e6948065-4fd3-4c20-a250-64568c96ae43",
+      "historyImage2": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769019730578_P1_1_P2_2.png?alt=media&token=975b9bc1-d850-411e-935c-40a123efa6e8"
+    }
+  },
+  "P1_2_P2_2": {
+    "feedback": {
+      "text": "Success! One player chose 2 and the other 2.",
+      "pointsOne": 2,
+      "pointsTwo": 2,
+      "historyImage1": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769019586184_P1_2_P2_2.png?alt=media&token=7c8f10bc-d8ca-49ad-b820-6f4eec192bc7",
+      "historyImage2": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769019586184_P1_2_P2_2.png?alt=media&token=7c8f10bc-d8ca-49ad-b820-6f4eec192bc7"
+    }
+  },
+  "P2_2_P1_2": {
+    "feedback": {
+      "text": "Success! One player chose 2 and the other 2.",
+      "pointsOne": 2,
+      "pointsTwo": 2,
+      "historyImage1": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769019586184_P1_2_P2_2.png?alt=media&token=7c8f10bc-d8ca-49ad-b820-6f4eec192bc7",
+      "historyImage2": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769019586184_P1_2_P2_2.png?alt=media&token=7c8f10bc-d8ca-49ad-b820-6f4eec192bc7"
+    }
+  },
+  "P1_2_P2_3": {
+    "feedback": {
+      "text": "Success! One player chose 2 and the other 3.",
+      "pointsOne": 2,
+      "pointsTwo": 3,
+      "historyImage1": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769020603968_P1_2_P2_3.png?alt=media&token=f788d852-8eb2-4812-b6d9-54da01bbbc2a",
+      "historyImage2": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769017036028_P1_3_P2_2.png?alt=media&token=415838bc-75db-4640-81a6-4fa509359082"
+    }
+  },
+  "P2_3_P1_2": {
+    "feedback": {
+      "text": "Success! One player chose 2 and the other 3.",
+      "pointsOne": 2,
+      "pointsTwo": 3,
+      "historyImage1": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769020603968_P1_2_P2_3.png?alt=media&token=f788d852-8eb2-4812-b6d9-54da01bbbc2a",
+      "historyImage2": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769017036028_P1_3_P2_2.png?alt=media&token=415838bc-75db-4640-81a6-4fa509359082"
+    }
+  },
+  "P1_2_P2_4": {
+    "feedback": {
+      "text": "Success! One player chose 2 and the other 4.",
+      "pointsOne": 2,
+      "pointsTwo": 4,
+      "historyImage1": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769020696125_P1_2_P2_4.png?alt=media&token=a98bde47-ba57-448e-af64-36d5b61a6367",
+      "historyImage2": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769019429158_P1_4_P2_2.png?alt=media&token=c9ac943b-3009-4795-ade4-278b2e1a2c16"
+    }
+  },
+  "P2_4_P1_2": {
+    "feedback": {
+      "text": "Success! One player chose 2 and the other 4.",
+      "pointsOne": 2,
+      "pointsTwo": 4,
+      "historyImage1": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769020696125_P1_2_P2_4.png?alt=media&token=a98bde47-ba57-448e-af64-36d5b61a6367",
+      "historyImage2": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769019429158_P1_4_P2_2.png?alt=media&token=c9ac943b-3009-4795-ade4-278b2e1a2c16"
+    }
+  },
+  "P1_2_P2_5": {
+    "feedback": {
+      "text": "Success! One player chose 2 and the other 5.",
+      "pointsOne": 2,
+      "pointsTwo": 5,
+      "historyImage1": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769018015053_P1_2_P2_5.png?alt=media&token=0986105b-cb88-422c-a5d8-319efb1cce15",
+      "historyImage2": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769016859305_P1_5_P2_2.png?alt=media&token=027a0441-f1d7-495d-8789-d86b0c034f53"
+    }
+  },
+  "P2_5_P1_2": {
+    "feedback": {
+      "text": "Success! One player chose 2 and the other 5.",
+      "pointsOne": 2,
+      "pointsTwo": 5,
+      "historyImage1": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769018015053_P1_2_P2_5.png?alt=media&token=0986105b-cb88-422c-a5d8-319efb1cce15",
+      "historyImage2": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769016859305_P1_5_P2_2.png?alt=media&token=027a0441-f1d7-495d-8789-d86b0c034f53"
+    }
+  },
+  "P1_2_P2_6": {
+    "feedback": {
+      "text": "Success! One player chose 2 and the other 6.",
+      "pointsOne": 2,
+      "pointsTwo": 6,
+      "historyImage1": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769019073103_P1_2_P2_6.png?alt=media&token=0ec4e1a4-a834-4869-b1e4-25509a1bd8cd",
+      "historyImage2": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769018869102_P1_6_P2_2.png?alt=media&token=5e515b91-ae03-416a-acae-68cb26da4946"
+    }
+  },
+  "P2_6_P1_2": {
+    "feedback": {
+      "text": "Success! One player chose 2 and the other 6.",
+      "pointsOne": 2,
+      "pointsTwo": 6,
+      "historyImage1": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769019073103_P1_2_P2_6.png?alt=media&token=0ec4e1a4-a834-4869-b1e4-25509a1bd8cd",
+      "historyImage2": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769018869102_P1_6_P2_2.png?alt=media&token=5e515b91-ae03-416a-acae-68cb26da4946"
+    }
+  },
+  "P1_2_P2_7": {
+    "feedback": {
+      "text": "Success! One player chose 2 and the other 7.",
+      "pointsOne": 2,
+      "pointsTwo": 7,
+      "historyImage1": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769019539060_P1_2_P2_7.png?alt=media&token=ae23ca9f-fbab-496b-8ebc-18ad2a95c6e4",
+      "historyImage2": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769020126032_P1_7_P2_2.png?alt=media&token=b40dd89d-6f63-4c61-8e84-a239cd1260c6"
+    }
+  },
+  "P2_7_P1_2": {
+    "feedback": {
+      "text": "Success! One player chose 2 and the other 7.",
+      "pointsOne": 2,
+      "pointsTwo": 7,
+      "historyImage1": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769019539060_P1_2_P2_7.png?alt=media&token=ae23ca9f-fbab-496b-8ebc-18ad2a95c6e4",
+      "historyImage2": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769020126032_P1_7_P2_2.png?alt=media&token=b40dd89d-6f63-4c61-8e84-a239cd1260c6"
+    }
+  },
+  "P1_2_P2_8": {
+    "feedback": {
+      "text": "Success! One player chose 2 and the other 8.",
+      "pointsOne": 2,
+      "pointsTwo": 8,
+      "historyImage1": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769017411846_P1_2_P2_8.png?alt=media&token=5f040f24-f8a1-4064-a3d9-8208861295bd",
+      "historyImage2": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769019414625_P1_8_P2_2.png?alt=media&token=60b4208b-7eae-470d-8d83-32a7b1e856cb"
+    }
+  },
+  "P2_8_P1_2": {
+    "feedback": {
+      "text": "Success! One player chose 2 and the other 8.",
+      "pointsOne": 2,
+      "pointsTwo": 8,
+      "historyImage1": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769017411846_P1_2_P2_8.png?alt=media&token=5f040f24-f8a1-4064-a3d9-8208861295bd",
+      "historyImage2": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769019414625_P1_8_P2_2.png?alt=media&token=60b4208b-7eae-470d-8d83-32a7b1e856cb"
+    }
+  },
+  "P1_2_P2_9": {
+    "feedback": {
+      "text": "Coordination Failed. One player chose 2 and the other 9. Players get their default points.",
+      "pointsOne": 1,
+      "pointsTwo": 1,
+      "historyImage1": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769018700234_P1_2_P2_9.png?alt=media&token=d437b452-f298-4c2a-aacd-96d829d63b2f",
+      "historyImage2": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769018366004_P1_9_P2_2.png?alt=media&token=b98b52ab-e5b9-4c0b-b488-21a65eb0afb6"
+    }
+  },
+  "P2_9_P1_2": {
+    "feedback": {
+      "text": "Coordination Failed. One player chose 2 and the other 9. Players get their default points.",
+      "pointsOne": 1,
+      "pointsTwo": 1,
+      "historyImage1": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769018700234_P1_2_P2_9.png?alt=media&token=d437b452-f298-4c2a-aacd-96d829d63b2f",
+      "historyImage2": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769018366004_P1_9_P2_2.png?alt=media&token=b98b52ab-e5b9-4c0b-b488-21a65eb0afb6"
+    }
+  },
+  "P1_3_P2_1": {
+    "feedback": {
+      "text": "Success! One player chose 3 and the other 1.",
+      "pointsOne": 3,
+      "pointsTwo": 1,
+      "historyImage1": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769019662795_P1_3_P2_1.png?alt=media&token=4ce5af0c-5832-4bb7-b228-ec4d04071a6e",
+      "historyImage2": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769019970889_P1_1_P2_3.png?alt=media&token=9be2784b-4e95-421d-9bb3-0ff6b280d11e"
+    }
+  },
+  "P2_1_P1_3": {
+    "feedback": {
+      "text": "Success! One player chose 3 and the other 1.",
+      "pointsOne": 3,
+      "pointsTwo": 1,
+      "historyImage1": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769019662795_P1_3_P2_1.png?alt=media&token=4ce5af0c-5832-4bb7-b228-ec4d04071a6e",
+      "historyImage2": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769019970889_P1_1_P2_3.png?alt=media&token=9be2784b-4e95-421d-9bb3-0ff6b280d11e"
+    }
+  },
+  "P1_3_P2_2": {
+    "feedback": {
+      "text": "Success! One player chose 3 and the other 2.",
+      "pointsOne": 3,
+      "pointsTwo": 2,
+      "historyImage1": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769017036028_P1_3_P2_2.png?alt=media&token=415838bc-75db-4640-81a6-4fa509359082",
+      "historyImage2": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769020603968_P1_2_P2_3.png?alt=media&token=f788d852-8eb2-4812-b6d9-54da01bbbc2a"
+    }
+  },
+  "P2_2_P1_3": {
+    "feedback": {
+      "text": "Success! One player chose 3 and the other 2.",
+      "pointsOne": 3,
+      "pointsTwo": 2,
+      "historyImage1": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769017036028_P1_3_P2_2.png?alt=media&token=415838bc-75db-4640-81a6-4fa509359082",
+      "historyImage2": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769020603968_P1_2_P2_3.png?alt=media&token=f788d852-8eb2-4812-b6d9-54da01bbbc2a"
+    }
+  },
+  "P1_3_P2_3": {
+    "feedback": {
+      "text": "Success! One player chose 3 and the other 3.",
+      "pointsOne": 3,
+      "pointsTwo": 3,
+      "historyImage1": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769019180082_P1_3_P2_3.png?alt=media&token=3511f681-11ed-40d5-848f-966e883ffcee",
+      "historyImage2": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769019180082_P1_3_P2_3.png?alt=media&token=3511f681-11ed-40d5-848f-966e883ffcee"
+    }
+  },
+  "P2_3_P1_3": {
+    "feedback": {
+      "text": "Success! One player chose 3 and the other 3.",
+      "pointsOne": 3,
+      "pointsTwo": 3,
+      "historyImage1": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769019180082_P1_3_P2_3.png?alt=media&token=3511f681-11ed-40d5-848f-966e883ffcee",
+      "historyImage2": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769019180082_P1_3_P2_3.png?alt=media&token=3511f681-11ed-40d5-848f-966e883ffcee"
+    }
+  },
+  "P1_3_P2_4": {
+    "feedback": {
+      "text": "Success! One player chose 3 and the other 4.",
+      "pointsOne": 3,
+      "pointsTwo": 4,
+      "historyImage1": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769019086402_P1_3_P2_4.png?alt=media&token=51f869a4-ed02-4f73-b0a8-18c83eb14486",
+      "historyImage2": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769018717372_P1_4_P2_3.png?alt=media&token=734da411-8da6-4478-8f36-bab89d5b16c4"
+    }
+  },
+  "P2_4_P1_3": {
+    "feedback": {
+      "text": "Success! One player chose 3 and the other 4.",
+      "pointsOne": 3,
+      "pointsTwo": 4,
+      "historyImage1": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769019086402_P1_3_P2_4.png?alt=media&token=51f869a4-ed02-4f73-b0a8-18c83eb14486",
+      "historyImage2": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769018717372_P1_4_P2_3.png?alt=media&token=734da411-8da6-4478-8f36-bab89d5b16c4"
+    }
+  },
+  "P1_3_P2_5": {
+    "feedback": {
+      "text": "Success! One player chose 3 and the other 5.",
+      "pointsOne": 3,
+      "pointsTwo": 5,
+      "historyImage1": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769018594799_P1_3_P2_5.png?alt=media&token=bf4a507a-f07d-480f-b44f-3ee673b9c16e",
+      "historyImage2": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769020058631_P1_5_P2_3.png?alt=media&token=ef0cd4cc-83b0-4db4-b765-b922d51b6064"
+    }
+  },
+  "P2_5_P1_3": {
+    "feedback": {
+      "text": "Success! One player chose 3 and the other 5.",
+      "pointsOne": 3,
+      "pointsTwo": 5,
+      "historyImage1": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769018594799_P1_3_P2_5.png?alt=media&token=bf4a507a-f07d-480f-b44f-3ee673b9c16e",
+      "historyImage2": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769020058631_P1_5_P2_3.png?alt=media&token=ef0cd4cc-83b0-4db4-b765-b922d51b6064"
+    }
+  },
+  "P1_3_P2_6": {
+    "feedback": {
+      "text": "Success! One player chose 3 and the other 6.",
+      "pointsOne": 3,
+      "pointsTwo": 6,
+      "historyImage1": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769017619857_P1_3_P2_6.png?alt=media&token=afd8b63a-0d6a-4976-b277-a7ba59d38f77",
+      "historyImage2": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769020761205_P1_6_P2_3.png?alt=media&token=d0fda117-0ff2-415e-bce5-17361bda8864"
+    }
+  },
+  "P2_6_P1_3": {
+    "feedback": {
+      "text": "Success! One player chose 3 and the other 6.",
+      "pointsOne": 3,
+      "pointsTwo": 6,
+      "historyImage1": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769017619857_P1_3_P2_6.png?alt=media&token=afd8b63a-0d6a-4976-b277-a7ba59d38f77",
+      "historyImage2": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769020761205_P1_6_P2_3.png?alt=media&token=d0fda117-0ff2-415e-bce5-17361bda8864"
+    }
+  },
+  "P1_3_P2_7": {
+    "feedback": {
+      "text": "Success! One player chose 3 and the other 7.",
+      "pointsOne": 3,
+      "pointsTwo": 7,
+      "historyImage1": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769019646355_P1_3_P2_7.png?alt=media&token=012d525d-2a73-4f49-afdc-7443765a9844",
+      "historyImage2": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769019275470_P1_7_P2_3.png?alt=media&token=9caebf4c-3007-4210-9c66-58fb68e7d761"
+    }
+  },
+  "P2_7_P1_3": {
+    "feedback": {
+      "text": "Success! One player chose 3 and the other 7.",
+      "pointsOne": 3,
+      "pointsTwo": 7,
+      "historyImage1": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769019646355_P1_3_P2_7.png?alt=media&token=012d525d-2a73-4f49-afdc-7443765a9844",
+      "historyImage2": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769019275470_P1_7_P2_3.png?alt=media&token=9caebf4c-3007-4210-9c66-58fb68e7d761"
+    }
+  },
+  "P1_3_P2_8": {
+    "feedback": {
+      "text": "Coordination Failed. One player chose 3 and the other 8. Players get their default points.",
+      "pointsOne": 1,
+      "pointsTwo": 1,
+      "historyImage1": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769018686178_P1_3_P2_8.png?alt=media&token=04dca396-fc5a-4f1e-943e-b6c9a49f5b3c",
+      "historyImage2": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769020202441_P1_8_P2_3.png?alt=media&token=0803a9dd-4f74-4f8d-9863-f26092d132e4"
+    }
+  },
+  "P2_8_P1_3": {
+    "feedback": {
+      "text": "Coordination Failed. One player chose 3 and the other 8. Players get their default points.",
+      "pointsOne": 1,
+      "pointsTwo": 1,
+      "historyImage1": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769018686178_P1_3_P2_8.png?alt=media&token=04dca396-fc5a-4f1e-943e-b6c9a49f5b3c",
+      "historyImage2": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769020202441_P1_8_P2_3.png?alt=media&token=0803a9dd-4f74-4f8d-9863-f26092d132e4"
+    }
+  },
+  "P1_3_P2_9": {
+    "feedback": {
+      "text": "Coordination Failed. One player chose 3 and the other 9. Players get their default points.",
+      "pointsOne": 1,
+      "pointsTwo": 1,
+      "historyImage1": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769018642950_P1_3_P2_9.png?alt=media&token=59b95a31-5d9d-4e25-86a3-7dcfa3fbb83f",
+      "historyImage2": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769018910381_P1_9_P2_3.png?alt=media&token=39739797-9564-4b04-8350-42ffe0fc1f53"
+    }
+  },
+  "P2_9_P1_3": {
+    "feedback": {
+      "text": "Coordination Failed. One player chose 3 and the other 9. Players get their default points.",
+      "pointsOne": 1,
+      "pointsTwo": 1,
+      "historyImage1": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769018642950_P1_3_P2_9.png?alt=media&token=59b95a31-5d9d-4e25-86a3-7dcfa3fbb83f",
+      "historyImage2": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769018910381_P1_9_P2_3.png?alt=media&token=39739797-9564-4b04-8350-42ffe0fc1f53"
+    }
+  },
+  "P1_4_P2_1": {
+    "feedback": {
+      "text": "Success! One player chose 4 and the other 1.",
+      "pointsOne": 4,
+      "pointsTwo": 1,
+      "historyImage1": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769019756344_P1_4_P2_1.png?alt=media&token=edf7af63-7169-465a-a01a-d6b38062c17b",
+      "historyImage2": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769016418864_P1_1_P2_4.png?alt=media&token=8e4e8739-cdd9-4662-8981-5772c92f5573"
+    }
+  },
+  "P2_1_P1_4": {
+    "feedback": {
+      "text": "Success! One player chose 4 and the other 1.",
+      "pointsOne": 4,
+      "pointsTwo": 1,
+      "historyImage1": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769019756344_P1_4_P2_1.png?alt=media&token=edf7af63-7169-465a-a01a-d6b38062c17b",
+      "historyImage2": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769016418864_P1_1_P2_4.png?alt=media&token=8e4e8739-cdd9-4662-8981-5772c92f5573"
+    }
+  },
+  "P1_4_P2_2": {
+    "feedback": {
+      "text": "Success! One player chose 4 and the other 2.",
+      "pointsOne": 4,
+      "pointsTwo": 2,
+      "historyImage1": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769019429158_P1_4_P2_2.png?alt=media&token=c9ac943b-3009-4795-ade4-278b2e1a2c16",
+      "historyImage2": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769020696125_P1_2_P2_4.png?alt=media&token=a98bde47-ba57-448e-af64-36d5b61a6367"
+    }
+  },
+  "P2_2_P1_4": {
+    "feedback": {
+      "text": "Success! One player chose 4 and the other 2.",
+      "pointsOne": 4,
+      "pointsTwo": 2,
+      "historyImage1": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769019429158_P1_4_P2_2.png?alt=media&token=c9ac943b-3009-4795-ade4-278b2e1a2c16",
+      "historyImage2": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769020696125_P1_2_P2_4.png?alt=media&token=a98bde47-ba57-448e-af64-36d5b61a6367"
+    }
+  },
+  "P1_4_P2_3": {
+    "feedback": {
+      "text": "Success! One player chose 4 and the other 3.",
+      "pointsOne": 4,
+      "pointsTwo": 3,
+      "historyImage1": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769018717372_P1_4_P2_3.png?alt=media&token=734da411-8da6-4478-8f36-bab89d5b16c4",
+      "historyImage2": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769019086402_P1_3_P2_4.png?alt=media&token=51f869a4-ed02-4f73-b0a8-18c83eb14486"
+    }
+  },
+  "P2_3_P1_4": {
+    "feedback": {
+      "text": "Success! One player chose 4 and the other 3.",
+      "pointsOne": 4,
+      "pointsTwo": 3,
+      "historyImage1": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769018717372_P1_4_P2_3.png?alt=media&token=734da411-8da6-4478-8f36-bab89d5b16c4",
+      "historyImage2": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769019086402_P1_3_P2_4.png?alt=media&token=51f869a4-ed02-4f73-b0a8-18c83eb14486"
+    }
+  },
+  "P1_4_P2_4": {
+    "feedback": {
+      "text": "Success! One player chose 4 and the other 4.",
+      "pointsOne": 4,
+      "pointsTwo": 4,
+      "historyImage1": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769020868431_P1_4_P2_4.png?alt=media&token=05d2d1a7-dcf2-49c4-8cd5-2d3150ab039a",
+      "historyImage2": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769020868431_P1_4_P2_4.png?alt=media&token=05d2d1a7-dcf2-49c4-8cd5-2d3150ab039a"
+    }
+  },
+  "P2_4_P1_4": {
+    "feedback": {
+      "text": "Success! One player chose 4 and the other 4.",
+      "pointsOne": 4,
+      "pointsTwo": 4,
+      "historyImage1": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769020868431_P1_4_P2_4.png?alt=media&token=05d2d1a7-dcf2-49c4-8cd5-2d3150ab039a",
+      "historyImage2": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769020868431_P1_4_P2_4.png?alt=media&token=05d2d1a7-dcf2-49c4-8cd5-2d3150ab039a"
+    }
+  },
+  "P1_4_P2_5": {
+    "feedback": {
+      "text": "Success! One player chose 4 and the other 5.",
+      "pointsOne": 4,
+      "pointsTwo": 5,
+      "historyImage1": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769017893355_P1_4_P2_5.png?alt=media&token=8b544a91-4ad2-45c8-acf9-a71693013244",
+      "historyImage2": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769019486613_P1_5_P2_4.png?alt=media&token=23498910-2209-40d1-9ed0-f26ab4907974"
+    }
+  },
+  "P2_5_P1_4": {
+    "feedback": {
+      "text": "Success! One player chose 4 and the other 5.",
+      "pointsOne": 4,
+      "pointsTwo": 5,
+      "historyImage1": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769017893355_P1_4_P2_5.png?alt=media&token=8b544a91-4ad2-45c8-acf9-a71693013244",
+      "historyImage2": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769019486613_P1_5_P2_4.png?alt=media&token=23498910-2209-40d1-9ed0-f26ab4907974"
+    }
+  },
+  "P1_4_P2_6": {
+    "feedback": {
+      "text": "Success! One player chose 4 and the other 6.",
+      "pointsOne": 4,
+      "pointsTwo": 6,
+      "historyImage1": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769017295486_P1_4_P2_6.png?alt=media&token=cc9aee34-ba15-4b4e-b823-597cb33b6d98",
+      "historyImage2": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769017450494_P1_6_P2_4.png?alt=media&token=dee1cdb7-1543-4b28-9f71-6d161b06a957"
+    }
+  },
+  "P2_6_P1_4": {
+    "feedback": {
+      "text": "Success! One player chose 4 and the other 6.",
+      "pointsOne": 4,
+      "pointsTwo": 6,
+      "historyImage1": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769017295486_P1_4_P2_6.png?alt=media&token=cc9aee34-ba15-4b4e-b823-597cb33b6d98",
+      "historyImage2": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769017450494_P1_6_P2_4.png?alt=media&token=dee1cdb7-1543-4b28-9f71-6d161b06a957"
+    }
+  },
+  "P1_4_P2_7": {
+    "feedback": {
+      "text": "Coordination Failed. One player chose 4 and the other 7. Players get their default points.",
+      "pointsOne": 1,
+      "pointsTwo": 1,
+      "historyImage1": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769020269582_P1_4_P2_7.png?alt=media&token=03a952f0-514a-476f-9c3e-15d6bb7ab207",
+      "historyImage2": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769019600359_P1_7_P2_4.png?alt=media&token=6ea5f2a9-0123-4b69-892a-4b8b965cc1e0"
+    }
+  },
+  "P2_7_P1_4": {
+    "feedback": {
+      "text": "Coordination Failed. One player chose 4 and the other 7. Players get their default points.",
+      "pointsOne": 1,
+      "pointsTwo": 1,
+      "historyImage1": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769020269582_P1_4_P2_7.png?alt=media&token=03a952f0-514a-476f-9c3e-15d6bb7ab207",
+      "historyImage2": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769019600359_P1_7_P2_4.png?alt=media&token=6ea5f2a9-0123-4b69-892a-4b8b965cc1e0"
+    }
+  },
+  "P1_4_P2_8": {
+    "feedback": {
+      "text": "Coordination Failed. One player chose 4 and the other 8. Players get their default points.",
+      "pointsOne": 1,
+      "pointsTwo": 1,
+      "historyImage1": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769019330998_P1_4_P2_8.png?alt=media&token=26a7817b-fe99-4053-bd30-c1cdad5c201c",
+      "historyImage2": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769018239986_P1_8_P2_4.png?alt=media&token=fe2d7569-65bd-496d-8101-52e7a17378e5"
+    }
+  },
+  "P2_8_P1_4": {
+    "feedback": {
+      "text": "Coordination Failed. One player chose 4 and the other 8. Players get their default points.",
+      "pointsOne": 1,
+      "pointsTwo": 1,
+      "historyImage1": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769019330998_P1_4_P2_8.png?alt=media&token=26a7817b-fe99-4053-bd30-c1cdad5c201c",
+      "historyImage2": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769018239986_P1_8_P2_4.png?alt=media&token=fe2d7569-65bd-496d-8101-52e7a17378e5"
+    }
+  },
+  "P1_4_P2_9": {
+    "feedback": {
+      "text": "Coordination Failed. One player chose 4 and the other 9. Players get their default points.",
+      "pointsOne": 1,
+      "pointsTwo": 1,
+      "historyImage1": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769019259713_P1_4_P2_9.png?alt=media&token=11e8b17c-553d-4c3e-a859-fe29deff400e",
+      "historyImage2": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769019470713_P1_9_P2_4.png?alt=media&token=59119683-6824-4cae-9f9f-6084fc1ea74d"
+    }
+  },
+  "P2_9_P1_4": {
+    "feedback": {
+      "text": "Coordination Failed. One player chose 4 and the other 9. Players get their default points.",
+      "pointsOne": 1,
+      "pointsTwo": 1,
+      "historyImage1": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769019259713_P1_4_P2_9.png?alt=media&token=11e8b17c-553d-4c3e-a859-fe29deff400e",
+      "historyImage2": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769019470713_P1_9_P2_4.png?alt=media&token=59119683-6824-4cae-9f9f-6084fc1ea74d"
+    }
+  },
+  "P1_5_P2_1": {
+    "feedback": {
+      "text": "Success! One player chose 5 and the other 1.",
+      "pointsOne": 5,
+      "pointsTwo": 1,
+      "historyImage1": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769019380793_P1_5_P2_1.png?alt=media&token=6d8c94ec-4374-456c-8398-edbaa33d67c7",
+      "historyImage2": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769016898186_P1_1_P2_5.png?alt=media&token=ce60c969-07dc-4aca-8899-c2db472fc1cc"
+    }
+  },
+  "P2_1_P1_5": {
+    "feedback": {
+      "text": "Success! One player chose 5 and the other 1.",
+      "pointsOne": 5,
+      "pointsTwo": 1,
+      "historyImage1": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769019380793_P1_5_P2_1.png?alt=media&token=6d8c94ec-4374-456c-8398-edbaa33d67c7",
+      "historyImage2": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769016898186_P1_1_P2_5.png?alt=media&token=ce60c969-07dc-4aca-8899-c2db472fc1cc"
+    }
+  },
+  "P1_5_P2_2": {
+    "feedback": {
+      "text": "Success! One player chose 5 and the other 2.",
+      "pointsOne": 5,
+      "pointsTwo": 2,
+      "historyImage1": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769016859305_P1_5_P2_2.png?alt=media&token=027a0441-f1d7-495d-8789-d86b0c034f53",
+      "historyImage2": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769018015053_P1_2_P2_5.png?alt=media&token=0986105b-cb88-422c-a5d8-319efb1cce15"
+    }
+  },
+  "P2_2_P1_5": {
+    "feedback": {
+      "text": "Success! One player chose 5 and the other 2.",
+      "pointsOne": 5,
+      "pointsTwo": 2,
+      "historyImage1": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769016859305_P1_5_P2_2.png?alt=media&token=027a0441-f1d7-495d-8789-d86b0c034f53",
+      "historyImage2": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769018015053_P1_2_P2_5.png?alt=media&token=0986105b-cb88-422c-a5d8-319efb1cce15"
+    }
+  },
+  "P1_5_P2_3": {
+    "feedback": {
+      "text": "Success! One player chose 5 and the other 3.",
+      "pointsOne": 5,
+      "pointsTwo": 3,
+      "historyImage1": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769020058631_P1_5_P2_3.png?alt=media&token=ef0cd4cc-83b0-4db4-b765-b922d51b6064",
+      "historyImage2": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769018594799_P1_3_P2_5.png?alt=media&token=bf4a507a-f07d-480f-b44f-3ee673b9c16e"
+    }
+  },
+  "P2_3_P1_5": {
+    "feedback": {
+      "text": "Success! One player chose 5 and the other 3.",
+      "pointsOne": 5,
+      "pointsTwo": 3,
+      "historyImage1": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769020058631_P1_5_P2_3.png?alt=media&token=ef0cd4cc-83b0-4db4-b765-b922d51b6064",
+      "historyImage2": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769018594799_P1_3_P2_5.png?alt=media&token=bf4a507a-f07d-480f-b44f-3ee673b9c16e"
+    }
+  },
+  "P1_5_P2_4": {
+    "feedback": {
+      "text": "Success! One player chose 5 and the other 4.",
+      "pointsOne": 5,
+      "pointsTwo": 4,
+      "historyImage1": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769019486613_P1_5_P2_4.png?alt=media&token=23498910-2209-40d1-9ed0-f26ab4907974",
+      "historyImage2": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769017893355_P1_4_P2_5.png?alt=media&token=8b544a91-4ad2-45c8-acf9-a71693013244"
+    }
+  },
+  "P2_4_P1_5": {
+    "feedback": {
+      "text": "Success! One player chose 5 and the other 4.",
+      "pointsOne": 5,
+      "pointsTwo": 4,
+      "historyImage1": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769019486613_P1_5_P2_4.png?alt=media&token=23498910-2209-40d1-9ed0-f26ab4907974",
+      "historyImage2": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769017893355_P1_4_P2_5.png?alt=media&token=8b544a91-4ad2-45c8-acf9-a71693013244"
+    }
+  },
+  "P1_5_P2_5": {
+    "feedback": {
+      "text": "Success! One player chose 5 and the other 5.",
+      "pointsOne": 5,
+      "pointsTwo": 5,
+      "historyImage1": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769019833730_P1_5_P2_5.png?alt=media&token=d0b28d1a-452a-4536-abdf-2736ea3c2988",
+      "historyImage2": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769019833730_P1_5_P2_5.png?alt=media&token=d0b28d1a-452a-4536-abdf-2736ea3c2988"
+    }
+  },
+  "P2_5_P1_5": {
+    "feedback": {
+      "text": "Success! One player chose 5 and the other 5.",
+      "pointsOne": 5,
+      "pointsTwo": 5,
+      "historyImage1": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769019833730_P1_5_P2_5.png?alt=media&token=d0b28d1a-452a-4536-abdf-2736ea3c2988",
+      "historyImage2": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769019833730_P1_5_P2_5.png?alt=media&token=d0b28d1a-452a-4536-abdf-2736ea3c2988"
+    }
+  },
+  "P1_5_P2_6": {
+    "feedback": {
+      "text": "Coordination Failed. One player chose 5 and the other 6. Players get their default points.",
+      "pointsOne": 1,
+      "pointsTwo": 1,
+      "historyImage1": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769019100341_P1_5_P2_6.png?alt=media&token=a4d3b0cd-5e4c-47d3-97bb-ef5222a29586",
+      "historyImage2": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769018671018_P1_6_P2_5.png?alt=media&token=0cb35f3d-32c9-4870-a42e-489ede77db24"
+    }
+  },
+  "P2_6_P1_5": {
+    "feedback": {
+      "text": "Coordination Failed. One player chose 5 and the other 6. Players get their default points.",
+      "pointsOne": 1,
+      "pointsTwo": 1,
+      "historyImage1": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769019100341_P1_5_P2_6.png?alt=media&token=a4d3b0cd-5e4c-47d3-97bb-ef5222a29586",
+      "historyImage2": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769018671018_P1_6_P2_5.png?alt=media&token=0cb35f3d-32c9-4870-a42e-489ede77db24"
+    }
+  },
+  "P1_5_P2_7": {
+    "feedback": {
+      "text": "Coordination Failed. One player chose 5 and the other 7. Players get their default points.",
+      "pointsOne": 1,
+      "pointsTwo": 1,
+      "historyImage1": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769017195810_P1_5_P2_7.png?alt=media&token=566a8e43-b239-46cf-90bf-e0821c5bccf2",
+      "historyImage2": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769017467474_P1_7_P2_5.png?alt=media&token=8b8ec743-b1ee-49c0-b791-477346e76bf5"
+    }
+  },
+  "P2_7_P1_5": {
+    "feedback": {
+      "text": "Coordination Failed. One player chose 5 and the other 7. Players get their default points.",
+      "pointsOne": 1,
+      "pointsTwo": 1,
+      "historyImage1": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769017195810_P1_5_P2_7.png?alt=media&token=566a8e43-b239-46cf-90bf-e0821c5bccf2",
+      "historyImage2": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769017467474_P1_7_P2_5.png?alt=media&token=8b8ec743-b1ee-49c0-b791-477346e76bf5"
+    }
+  },
+  "P1_5_P2_8": {
+    "feedback": {
+      "text": "Coordination Failed. One player chose 5 and the other 8. Players get their default points.",
+      "pointsOne": 1,
+      "pointsTwo": 1,
+      "historyImage1": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769020789097_P1_5_P2_8.png?alt=media&token=b24eae40-c393-4762-bad0-bc2a278ead25",
+      "historyImage2": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769020666820_P1_8_P2_5.png?alt=media&token=74346964-6aaf-48fb-ba1d-b30cb60e4acf"
+    }
+  },
+  "P2_8_P1_5": {
+    "feedback": {
+      "text": "Coordination Failed. One player chose 5 and the other 8. Players get their default points.",
+      "pointsOne": 1,
+      "pointsTwo": 1,
+      "historyImage1": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769020789097_P1_5_P2_8.png?alt=media&token=b24eae40-c393-4762-bad0-bc2a278ead25",
+      "historyImage2": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769020666820_P1_8_P2_5.png?alt=media&token=74346964-6aaf-48fb-ba1d-b30cb60e4acf"
+    }
+  },
+  "P1_5_P2_9": {
+    "feedback": {
+      "text": "Coordination Failed. One player chose 5 and the other 9. Players get their default points.",
+      "pointsOne": 1,
+      "pointsTwo": 1,
+      "historyImage1": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769020415510_P1_5_P2_9.png?alt=media&token=9af2f767-f876-4bc1-9686-a6c7e244b4ce",
+      "historyImage2": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769020338779_P1_9_P2_5.png?alt=media&token=a58a0e21-d367-490b-8783-5a38540b2460"
+    }
+  },
+  "P2_9_P1_5": {
+    "feedback": {
+      "text": "Coordination Failed. One player chose 5 and the other 9. Players get their default points.",
+      "pointsOne": 1,
+      "pointsTwo": 1,
+      "historyImage1": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769020415510_P1_5_P2_9.png?alt=media&token=9af2f767-f876-4bc1-9686-a6c7e244b4ce",
+      "historyImage2": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769020338779_P1_9_P2_5.png?alt=media&token=a58a0e21-d367-490b-8783-5a38540b2460"
+    }
+  },
+  "P1_6_P2_1": {
+    "feedback": {
+      "text": "Success! One player chose 6 and the other 1.",
+      "pointsOne": 6,
+      "pointsTwo": 1,
+      "historyImage1": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769018071631_P1_6_P2_1.png?alt=media&token=02bb3167-af1f-4577-85d9-37ae9276504b",
+      "historyImage2": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769017049414_P1_1_P2_6.png?alt=media&token=86d1b9a4-3307-424c-ae6b-332b0ad8c8ab"
+    }
+  },
+  "P2_1_P1_6": {
+    "feedback": {
+      "text": "Success! One player chose 6 and the other 1.",
+      "pointsOne": 6,
+      "pointsTwo": 1,
+      "historyImage1": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769018071631_P1_6_P2_1.png?alt=media&token=02bb3167-af1f-4577-85d9-37ae9276504b",
+      "historyImage2": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769017049414_P1_1_P2_6.png?alt=media&token=86d1b9a4-3307-424c-ae6b-332b0ad8c8ab"
+    }
+  },
+  "P1_6_P2_2": {
+    "feedback": {
+      "text": "Success! One player chose 6 and the other 2.",
+      "pointsOne": 6,
+      "pointsTwo": 2,
+      "historyImage1": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769018869102_P1_6_P2_2.png?alt=media&token=5e515b91-ae03-416a-acae-68cb26da4946",
+      "historyImage2": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769019073103_P1_2_P2_6.png?alt=media&token=0ec4e1a4-a834-4869-b1e4-25509a1bd8cd"
+    }
+  },
+  "P2_2_P1_6": {
+    "feedback": {
+      "text": "Success! One player chose 6 and the other 2.",
+      "pointsOne": 6,
+      "pointsTwo": 2,
+      "historyImage1": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769018869102_P1_6_P2_2.png?alt=media&token=5e515b91-ae03-416a-acae-68cb26da4946",
+      "historyImage2": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769019073103_P1_2_P2_6.png?alt=media&token=0ec4e1a4-a834-4869-b1e4-25509a1bd8cd"
+    }
+  },
+  "P1_6_P2_3": {
+    "feedback": {
+      "text": "Success! One player chose 6 and the other 3.",
+      "pointsOne": 6,
+      "pointsTwo": 3,
+      "historyImage1": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769020761205_P1_6_P2_3.png?alt=media&token=d0fda117-0ff2-415e-bce5-17361bda8864",
+      "historyImage2": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769017619857_P1_3_P2_6.png?alt=media&token=afd8b63a-0d6a-4976-b277-a7ba59d38f77"
+    }
+  },
+  "P2_3_P1_6": {
+    "feedback": {
+      "text": "Success! One player chose 6 and the other 3.",
+      "pointsOne": 6,
+      "pointsTwo": 3,
+      "historyImage1": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769020761205_P1_6_P2_3.png?alt=media&token=d0fda117-0ff2-415e-bce5-17361bda8864",
+      "historyImage2": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769017619857_P1_3_P2_6.png?alt=media&token=afd8b63a-0d6a-4976-b277-a7ba59d38f77"
+    }
+  },
+  "P1_6_P2_4": {
+    "feedback": {
+      "text": "Success! One player chose 6 and the other 4.",
+      "pointsOne": 6,
+      "pointsTwo": 4,
+      "historyImage1": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769017450494_P1_6_P2_4.png?alt=media&token=dee1cdb7-1543-4b28-9f71-6d161b06a957",
+      "historyImage2": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769017295486_P1_4_P2_6.png?alt=media&token=cc9aee34-ba15-4b4e-b823-597cb33b6d98"
+    }
+  },
+  "P2_4_P1_6": {
+    "feedback": {
+      "text": "Success! One player chose 6 and the other 4.",
+      "pointsOne": 6,
+      "pointsTwo": 4,
+      "historyImage1": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769017450494_P1_6_P2_4.png?alt=media&token=dee1cdb7-1543-4b28-9f71-6d161b06a957",
+      "historyImage2": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769017295486_P1_4_P2_6.png?alt=media&token=cc9aee34-ba15-4b4e-b823-597cb33b6d98"
+    }
+  },
+  "P1_6_P2_5": {
+    "feedback": {
+      "text": "Coordination Failed. One player chose 6 and the other 5. Players get their default points.",
+      "pointsOne": 1,
+      "pointsTwo": 1,
+      "historyImage1": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769018671018_P1_6_P2_5.png?alt=media&token=0cb35f3d-32c9-4870-a42e-489ede77db24",
+      "historyImage2": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769019100341_P1_5_P2_6.png?alt=media&token=a4d3b0cd-5e4c-47d3-97bb-ef5222a29586"
+    }
+  },
+  "P2_5_P1_6": {
+    "feedback": {
+      "text": "Coordination Failed. One player chose 6 and the other 5. Players get their default points.",
+      "pointsOne": 1,
+      "pointsTwo": 1,
+      "historyImage1": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769018671018_P1_6_P2_5.png?alt=media&token=0cb35f3d-32c9-4870-a42e-489ede77db24",
+      "historyImage2": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769019100341_P1_5_P2_6.png?alt=media&token=a4d3b0cd-5e4c-47d3-97bb-ef5222a29586"
+    }
+  },
+  "P1_6_P2_6": {
+    "feedback": {
+      "text": "Coordination Failed. One player chose 6 and the other 6. Players get their default points.",
+      "pointsOne": 1,
+      "pointsTwo": 1,
+      "historyImage1": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769020361529_P1_6_P2_6.png?alt=media&token=8eb5a31b-77d1-4c68-b992-d4b332d60eb3",
+      "historyImage2": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769020361529_P1_6_P2_6.png?alt=media&token=8eb5a31b-77d1-4c68-b992-d4b332d60eb3"
+    }
+  },
+  "P2_6_P1_6": {
+    "feedback": {
+      "text": "Coordination Failed. One player chose 6 and the other 6. Players get their default points.",
+      "pointsOne": 1,
+      "pointsTwo": 1,
+      "historyImage1": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769020361529_P1_6_P2_6.png?alt=media&token=8eb5a31b-77d1-4c68-b992-d4b332d60eb3",
+      "historyImage2": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769020361529_P1_6_P2_6.png?alt=media&token=8eb5a31b-77d1-4c68-b992-d4b332d60eb3"
+    }
+  },
+  "P1_6_P2_7": {
+    "feedback": {
+      "text": "Coordination Failed. One player chose 6 and the other 7. Players get their default points.",
+      "pointsOne": 1,
+      "pointsTwo": 1,
+      "historyImage1": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769017328545_P1_6_P2_7.png?alt=media&token=2a70ae71-e1f8-4e46-b032-f1bd3729f941",
+      "historyImage2": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769016762161_P1_7_P2_6.png?alt=media&token=60bd2210-9d27-401f-bb8f-2d7a2c3e062a"
+    }
+  },
+  "P2_7_P1_6": {
+    "feedback": {
+      "text": "Coordination Failed. One player chose 6 and the other 7. Players get their default points.",
+      "pointsOne": 1,
+      "pointsTwo": 1,
+      "historyImage1": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769017328545_P1_6_P2_7.png?alt=media&token=2a70ae71-e1f8-4e46-b032-f1bd3729f941",
+      "historyImage2": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769016762161_P1_7_P2_6.png?alt=media&token=60bd2210-9d27-401f-bb8f-2d7a2c3e062a"
+    }
+  },
+  "P1_6_P2_8": {
+    "feedback": {
+      "text": "Coordination Failed. One player chose 6 and the other 8. Players get their default points.",
+      "pointsOne": 1,
+      "pointsTwo": 1,
+      "historyImage1": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769017276221_P1_6_P2_8.png?alt=media&token=20b5e147-d8ce-4401-960a-3c495cf1979e",
+      "historyImage2": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769017499920_P1_8_P2_6.png?alt=media&token=19287d2c-204e-4d9f-91db-56dd94a2f9bc"
+    }
+  },
+  "P2_8_P1_6": {
+    "feedback": {
+      "text": "Coordination Failed. One player chose 6 and the other 8. Players get their default points.",
+      "pointsOne": 1,
+      "pointsTwo": 1,
+      "historyImage1": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769017276221_P1_6_P2_8.png?alt=media&token=20b5e147-d8ce-4401-960a-3c495cf1979e",
+      "historyImage2": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769017499920_P1_8_P2_6.png?alt=media&token=19287d2c-204e-4d9f-91db-56dd94a2f9bc"
+    }
+  },
+  "P1_6_P2_9": {
+    "feedback": {
+      "text": "Coordination Failed. One player chose 6 and the other 9. Players get their default points.",
+      "pointsOne": 1,
+      "pointsTwo": 1,
+      "historyImage1": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769020318691_P1_6_P2_9.png?alt=media&token=aef4a7dc-eb3e-4e7f-a278-e45b505b87b7",
+      "historyImage2": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769019778723_P1_9_P2_6.png?alt=media&token=d7e53580-93c5-46a2-8741-611332006849"
+    }
+  },
+  "P2_9_P1_6": {
+    "feedback": {
+      "text": "Coordination Failed. One player chose 6 and the other 9. Players get their default points.",
+      "pointsOne": 1,
+      "pointsTwo": 1,
+      "historyImage1": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769020318691_P1_6_P2_9.png?alt=media&token=aef4a7dc-eb3e-4e7f-a278-e45b505b87b7",
+      "historyImage2": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769019778723_P1_9_P2_6.png?alt=media&token=d7e53580-93c5-46a2-8741-611332006849"
+    }
+  },
+  "P1_7_P2_1": {
+    "feedback": {
+      "text": "Success! One player chose 7 and the other 1.",
+      "pointsOne": 7,
+      "pointsTwo": 1,
+      "historyImage1": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769016792165_P1_7_P2_1.png?alt=media&token=9abca73a-b114-4a4c-ae03-eccd182ba3d7",
+      "historyImage2": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769019162395_P1_1_P2_7.png?alt=media&token=de6c9083-586d-4a3c-94bb-ab2292746f08"
+    }
+  },
+  "P2_1_P1_7": {
+    "feedback": {
+      "text": "Success! One player chose 7 and the other 1.",
+      "pointsOne": 7,
+      "pointsTwo": 1,
+      "historyImage1": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769016792165_P1_7_P2_1.png?alt=media&token=9abca73a-b114-4a4c-ae03-eccd182ba3d7",
+      "historyImage2": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769019162395_P1_1_P2_7.png?alt=media&token=de6c9083-586d-4a3c-94bb-ab2292746f08"
+    }
+  },
+  "P1_7_P2_2": {
+    "feedback": {
+      "text": "Success! One player chose 7 and the other 2.",
+      "pointsOne": 7,
+      "pointsTwo": 2,
+      "historyImage1": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769020126032_P1_7_P2_2.png?alt=media&token=b40dd89d-6f63-4c61-8e84-a239cd1260c6",
+      "historyImage2": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769019539060_P1_2_P2_7.png?alt=media&token=ae23ca9f-fbab-496b-8ebc-18ad2a95c6e4"
+    }
+  },
+  "P2_2_P1_7": {
+    "feedback": {
+      "text": "Success! One player chose 7 and the other 2.",
+      "pointsOne": 7,
+      "pointsTwo": 2,
+      "historyImage1": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769020126032_P1_7_P2_2.png?alt=media&token=b40dd89d-6f63-4c61-8e84-a239cd1260c6",
+      "historyImage2": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769019539060_P1_2_P2_7.png?alt=media&token=ae23ca9f-fbab-496b-8ebc-18ad2a95c6e4"
+    }
+  },
+  "P1_7_P2_3": {
+    "feedback": {
+      "text": "Success! One player chose 7 and the other 3.",
+      "pointsOne": 7,
+      "pointsTwo": 3,
+      "historyImage1": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769019275470_P1_7_P2_3.png?alt=media&token=9caebf4c-3007-4210-9c66-58fb68e7d761",
+      "historyImage2": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769019646355_P1_3_P2_7.png?alt=media&token=012d525d-2a73-4f49-afdc-7443765a9844"
+    }
+  },
+  "P2_3_P1_7": {
+    "feedback": {
+      "text": "Success! One player chose 7 and the other 3.",
+      "pointsOne": 7,
+      "pointsTwo": 3,
+      "historyImage1": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769019275470_P1_7_P2_3.png?alt=media&token=9caebf4c-3007-4210-9c66-58fb68e7d761",
+      "historyImage2": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769019646355_P1_3_P2_7.png?alt=media&token=012d525d-2a73-4f49-afdc-7443765a9844"
+    }
+  },
+  "P1_7_P2_4": {
+    "feedback": {
+      "text": "Coordination Failed. One player chose 7 and the other 4. Players get their default points.",
+      "pointsOne": 1,
+      "pointsTwo": 1,
+      "historyImage1": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769019600359_P1_7_P2_4.png?alt=media&token=6ea5f2a9-0123-4b69-892a-4b8b965cc1e0",
+      "historyImage2": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769020269582_P1_4_P2_7.png?alt=media&token=03a952f0-514a-476f-9c3e-15d6bb7ab207"
+    }
+  },
+  "P2_4_P1_7": {
+    "feedback": {
+      "text": "Coordination Failed. One player chose 7 and the other 4. Players get their default points.",
+      "pointsOne": 1,
+      "pointsTwo": 1,
+      "historyImage1": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769019600359_P1_7_P2_4.png?alt=media&token=6ea5f2a9-0123-4b69-892a-4b8b965cc1e0",
+      "historyImage2": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769020269582_P1_4_P2_7.png?alt=media&token=03a952f0-514a-476f-9c3e-15d6bb7ab207"
+    }
+  },
+  "P1_7_P2_5": {
+    "feedback": {
+      "text": "Coordination Failed. One player chose 7 and the other 5. Players get their default points.",
+      "pointsOne": 1,
+      "pointsTwo": 1,
+      "historyImage1": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769017467474_P1_7_P2_5.png?alt=media&token=8b8ec743-b1ee-49c0-b791-477346e76bf5",
+      "historyImage2": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769017195810_P1_5_P2_7.png?alt=media&token=566a8e43-b239-46cf-90bf-e0821c5bccf2"
+    }
+  },
+  "P2_5_P1_7": {
+    "feedback": {
+      "text": "Coordination Failed. One player chose 7 and the other 5. Players get their default points.",
+      "pointsOne": 1,
+      "pointsTwo": 1,
+      "historyImage1": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769017467474_P1_7_P2_5.png?alt=media&token=8b8ec743-b1ee-49c0-b791-477346e76bf5",
+      "historyImage2": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769017195810_P1_5_P2_7.png?alt=media&token=566a8e43-b239-46cf-90bf-e0821c5bccf2"
+    }
+  },
+  "P1_7_P2_6": {
+    "feedback": {
+      "text": "Coordination Failed. One player chose 7 and the other 6. Players get their default points.",
+      "pointsOne": 1,
+      "pointsTwo": 1,
+      "historyImage1": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769016762161_P1_7_P2_6.png?alt=media&token=60bd2210-9d27-401f-bb8f-2d7a2c3e062a",
+      "historyImage2": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769017328545_P1_6_P2_7.png?alt=media&token=2a70ae71-e1f8-4e46-b032-f1bd3729f941"
+    }
+  },
+  "P2_6_P1_7": {
+    "feedback": {
+      "text": "Coordination Failed. One player chose 7 and the other 6. Players get their default points.",
+      "pointsOne": 1,
+      "pointsTwo": 1,
+      "historyImage1": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769016762161_P1_7_P2_6.png?alt=media&token=60bd2210-9d27-401f-bb8f-2d7a2c3e062a",
+      "historyImage2": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769017328545_P1_6_P2_7.png?alt=media&token=2a70ae71-e1f8-4e46-b032-f1bd3729f941"
+    }
+  },
+  "P1_7_P2_7": {
+    "feedback": {
+      "text": "Coordination Failed. One player chose 7 and the other 7. Players get their default points.",
+      "pointsOne": 1,
+      "pointsTwo": 1,
+      "historyImage1": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769017262380_P1_7_P2_7.png?alt=media&token=70e2f393-7f00-4230-964a-eff9a7ecf2e1",
+      "historyImage2": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769017262380_P1_7_P2_7.png?alt=media&token=70e2f393-7f00-4230-964a-eff9a7ecf2e1"
+    }
+  },
+  "P2_7_P1_7": {
+    "feedback": {
+      "text": "Coordination Failed. One player chose 7 and the other 7. Players get their default points.",
+      "pointsOne": 1,
+      "pointsTwo": 1,
+      "historyImage1": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769017262380_P1_7_P2_7.png?alt=media&token=70e2f393-7f00-4230-964a-eff9a7ecf2e1",
+      "historyImage2": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769017262380_P1_7_P2_7.png?alt=media&token=70e2f393-7f00-4230-964a-eff9a7ecf2e1"
+    }
+  },
+  "P1_7_P2_8": {
+    "feedback": {
+      "text": "Coordination Failed. One player chose 7 and the other 8. Players get their default points.",
+      "pointsOne": 1,
+      "pointsTwo": 1,
+      "historyImage1": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769019707555_P1_7_P2_8.png?alt=media&token=ebf2dd82-5205-4064-85d0-50c94cc53ad9",
+      "historyImage2": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769018897216_P1_8_P2_7.png?alt=media&token=b0d08bf2-3d16-4e2b-809c-9e4e7b7deafb"
+    }
+  },
+  "P2_8_P1_7": {
+    "feedback": {
+      "text": "Coordination Failed. One player chose 7 and the other 8. Players get their default points.",
+      "pointsOne": 1,
+      "pointsTwo": 1,
+      "historyImage1": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769019707555_P1_7_P2_8.png?alt=media&token=ebf2dd82-5205-4064-85d0-50c94cc53ad9",
+      "historyImage2": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769018897216_P1_8_P2_7.png?alt=media&token=b0d08bf2-3d16-4e2b-809c-9e4e7b7deafb"
+    }
+  },
+  "P1_7_P2_9": {
+    "feedback": {
+      "text": "Coordination Failed. One player chose 7 and the other 9. Players get their default points.",
+      "pointsOne": 1,
+      "pointsTwo": 1,
+      "historyImage1": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769019009689_P1_7_P2_9.png?alt=media&token=e0f956e0-01e2-4d36-93af-3243217f1942",
+      "historyImage2": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769018853766_P1_9_P2_7.png?alt=media&token=e9846b9d-8312-432d-a163-ea96012402c4"
+    }
+  },
+  "P2_9_P1_7": {
+    "feedback": {
+      "text": "Coordination Failed. One player chose 7 and the other 9. Players get their default points.",
+      "pointsOne": 1,
+      "pointsTwo": 1,
+      "historyImage1": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769019009689_P1_7_P2_9.png?alt=media&token=e0f956e0-01e2-4d36-93af-3243217f1942",
+      "historyImage2": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769018853766_P1_9_P2_7.png?alt=media&token=e9846b9d-8312-432d-a163-ea96012402c4"
+    }
+  },
+  "P1_8_P2_1": {
+    "feedback": {
+      "text": "Success! One player chose 8 and the other 1.",
+      "pointsOne": 8,
+      "pointsTwo": 1,
+      "historyImage1": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769020149015_P1_8_P2_1.png?alt=media&token=e6027c65-9623-4fb0-95da-f346fa2c2b53",
+      "historyImage2": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769019317501_P1_1_P2_8.png?alt=media&token=45a34a40-4606-4d5f-a2b4-80c7de6351dd"
+    }
+  },
+  "P2_1_P1_8": {
+    "feedback": {
+      "text": "Success! One player chose 8 and the other 1.",
+      "pointsOne": 8,
+      "pointsTwo": 1,
+      "historyImage1": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769020149015_P1_8_P2_1.png?alt=media&token=e6027c65-9623-4fb0-95da-f346fa2c2b53",
+      "historyImage2": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769019317501_P1_1_P2_8.png?alt=media&token=45a34a40-4606-4d5f-a2b4-80c7de6351dd"
+    }
+  },
+  "P1_8_P2_2": {
+    "feedback": {
+      "text": "Success! One player chose 8 and the other 2.",
+      "pointsOne": 8,
+      "pointsTwo": 2,
+      "historyImage1": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769019414625_P1_8_P2_2.png?alt=media&token=60b4208b-7eae-470d-8d83-32a7b1e856cb",
+      "historyImage2": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769017411846_P1_2_P2_8.png?alt=media&token=5f040f24-f8a1-4064-a3d9-8208861295bd"
+    }
+  },
+  "P2_2_P1_8": {
+    "feedback": {
+      "text": "Success! One player chose 8 and the other 2.",
+      "pointsOne": 8,
+      "pointsTwo": 2,
+      "historyImage1": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769019414625_P1_8_P2_2.png?alt=media&token=60b4208b-7eae-470d-8d83-32a7b1e856cb",
+      "historyImage2": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769017411846_P1_2_P2_8.png?alt=media&token=5f040f24-f8a1-4064-a3d9-8208861295bd"
+    }
+  },
+  "P1_8_P2_3": {
+    "feedback": {
+      "text": "Coordination Failed. One player chose 8 and the other 3. Players get their default points.",
+      "pointsOne": 1,
+      "pointsTwo": 1,
+      "historyImage1": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769020202441_P1_8_P2_3.png?alt=media&token=0803a9dd-4f74-4f8d-9863-f26092d132e4",
+      "historyImage2": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769018686178_P1_3_P2_8.png?alt=media&token=04dca396-fc5a-4f1e-943e-b6c9a49f5b3c"
+    }
+  },
+  "P2_3_P1_8": {
+    "feedback": {
+      "text": "Coordination Failed. One player chose 8 and the other 3. Players get their default points.",
+      "pointsOne": 1,
+      "pointsTwo": 1,
+      "historyImage1": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769020202441_P1_8_P2_3.png?alt=media&token=0803a9dd-4f74-4f8d-9863-f26092d132e4",
+      "historyImage2": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769018686178_P1_3_P2_8.png?alt=media&token=04dca396-fc5a-4f1e-943e-b6c9a49f5b3c"
+    }
+  },
+  "P1_8_P2_4": {
+    "feedback": {
+      "text": "Coordination Failed. One player chose 8 and the other 4. Players get their default points.",
+      "pointsOne": 1,
+      "pointsTwo": 1,
+      "historyImage1": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769018239986_P1_8_P2_4.png?alt=media&token=fe2d7569-65bd-496d-8101-52e7a17378e5",
+      "historyImage2": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769019330998_P1_4_P2_8.png?alt=media&token=26a7817b-fe99-4053-bd30-c1cdad5c201c"
+    }
+  },
+  "P2_4_P1_8": {
+    "feedback": {
+      "text": "Coordination Failed. One player chose 8 and the other 4. Players get their default points.",
+      "pointsOne": 1,
+      "pointsTwo": 1,
+      "historyImage1": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769018239986_P1_8_P2_4.png?alt=media&token=fe2d7569-65bd-496d-8101-52e7a17378e5",
+      "historyImage2": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769019330998_P1_4_P2_8.png?alt=media&token=26a7817b-fe99-4053-bd30-c1cdad5c201c"
+    }
+  },
+  "P1_8_P2_5": {
+    "feedback": {
+      "text": "Coordination Failed. One player chose 8 and the other 5. Players get their default points.",
+      "pointsOne": 1,
+      "pointsTwo": 1,
+      "historyImage1": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769020666820_P1_8_P2_5.png?alt=media&token=74346964-6aaf-48fb-ba1d-b30cb60e4acf",
+      "historyImage2": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769020789097_P1_5_P2_8.png?alt=media&token=b24eae40-c393-4762-bad0-bc2a278ead25"
+    }
+  },
+  "P2_5_P1_8": {
+    "feedback": {
+      "text": "Coordination Failed. One player chose 8 and the other 5. Players get their default points.",
+      "pointsOne": 1,
+      "pointsTwo": 1,
+      "historyImage1": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769020666820_P1_8_P2_5.png?alt=media&token=74346964-6aaf-48fb-ba1d-b30cb60e4acf",
+      "historyImage2": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769020789097_P1_5_P2_8.png?alt=media&token=b24eae40-c393-4762-bad0-bc2a278ead25"
+    }
+  },
+  "P1_8_P2_6": {
+    "feedback": {
+      "text": "Coordination Failed. One player chose 8 and the other 6. Players get their default points.",
+      "pointsOne": 1,
+      "pointsTwo": 1,
+      "historyImage1": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769017499920_P1_8_P2_6.png?alt=media&token=19287d2c-204e-4d9f-91db-56dd94a2f9bc",
+      "historyImage2": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769017276221_P1_6_P2_8.png?alt=media&token=20b5e147-d8ce-4401-960a-3c495cf1979e"
+    }
+  },
+  "P2_6_P1_8": {
+    "feedback": {
+      "text": "Coordination Failed. One player chose 8 and the other 6. Players get their default points.",
+      "pointsOne": 1,
+      "pointsTwo": 1,
+      "historyImage1": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769017499920_P1_8_P2_6.png?alt=media&token=19287d2c-204e-4d9f-91db-56dd94a2f9bc",
+      "historyImage2": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769017276221_P1_6_P2_8.png?alt=media&token=20b5e147-d8ce-4401-960a-3c495cf1979e"
+    }
+  },
+  "P1_8_P2_7": {
+    "feedback": {
+      "text": "Coordination Failed. One player chose 8 and the other 7. Players get their default points.",
+      "pointsOne": 1,
+      "pointsTwo": 1,
+      "historyImage1": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769018897216_P1_8_P2_7.png?alt=media&token=b0d08bf2-3d16-4e2b-809c-9e4e7b7deafb",
+      "historyImage2": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769019707555_P1_7_P2_8.png?alt=media&token=ebf2dd82-5205-4064-85d0-50c94cc53ad9"
+    }
+  },
+  "P2_7_P1_8": {
+    "feedback": {
+      "text": "Coordination Failed. One player chose 8 and the other 7. Players get their default points.",
+      "pointsOne": 1,
+      "pointsTwo": 1,
+      "historyImage1": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769018897216_P1_8_P2_7.png?alt=media&token=b0d08bf2-3d16-4e2b-809c-9e4e7b7deafb",
+      "historyImage2": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769019707555_P1_7_P2_8.png?alt=media&token=ebf2dd82-5205-4064-85d0-50c94cc53ad9"
+    }
+  },
+  "P1_8_P2_8": {
+    "feedback": {
+      "text": "Coordination Failed. One player chose 8 and the other 8. Players get their default points.",
+      "pointsOne": 1,
+      "pointsTwo": 1,
+      "historyImage1": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769017340129_P1_8_P2_8.png?alt=media&token=bb7084a2-bf45-4c10-9746-721d99db8e05",
+      "historyImage2": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769017340129_P1_8_P2_8.png?alt=media&token=bb7084a2-bf45-4c10-9746-721d99db8e05"
+    }
+  },
+  "P2_8_P1_8": {
+    "feedback": {
+      "text": "Coordination Failed. One player chose 8 and the other 8. Players get their default points.",
+      "pointsOne": 1,
+      "pointsTwo": 1,
+      "historyImage1": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769017340129_P1_8_P2_8.png?alt=media&token=bb7084a2-bf45-4c10-9746-721d99db8e05",
+      "historyImage2": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769017340129_P1_8_P2_8.png?alt=media&token=bb7084a2-bf45-4c10-9746-721d99db8e05"
+    }
+  },
+  "P1_8_P2_9": {
+    "feedback": {
+      "text": "Coordination Failed. One player chose 8 and the other 9. Players get their default points.",
+      "pointsOne": 1,
+      "pointsTwo": 1,
+      "historyImage1": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769019523374_P1_8_P2_9.png?alt=media&token=72d339b9-7ff3-4354-ae4d-c12b5e054d7c",
+      "historyImage2": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769017247976_P1_9_P2_8.png?alt=media&token=01e81d5b-550b-4e6b-ad5d-2943f85c5448"
+    }
+  },
+  "P2_9_P1_8": {
+    "feedback": {
+      "text": "Coordination Failed. One player chose 8 and the other 9. Players get their default points.",
+      "pointsOne": 1,
+      "pointsTwo": 1,
+      "historyImage1": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769019523374_P1_8_P2_9.png?alt=media&token=72d339b9-7ff3-4354-ae4d-c12b5e054d7c",
+      "historyImage2": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769017247976_P1_9_P2_8.png?alt=media&token=01e81d5b-550b-4e6b-ad5d-2943f85c5448"
+    }
+  },
+  "P1_9_P2_1": {
+    "feedback": {
+      "text": "Success! One player chose 9 and the other 1.",
+      "pointsOne": 9,
+      "pointsTwo": 1,
+      "historyImage1": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769019290204_P1_9_P2_1.png?alt=media&token=47291c01-44a5-41d7-bd24-0c1c0d15852e",
+      "historyImage2": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769018096637_P1_1_P2_9.png?alt=media&token=cd614b5f-a46f-41ed-ba32-62a5d51e72b1"
+    }
+  },
+  "P2_1_P1_9": {
+    "feedback": {
+      "text": "Success! One player chose 9 and the other 1.",
+      "pointsOne": 9,
+      "pointsTwo": 1,
+      "historyImage1": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769019290204_P1_9_P2_1.png?alt=media&token=47291c01-44a5-41d7-bd24-0c1c0d15852e",
+      "historyImage2": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769018096637_P1_1_P2_9.png?alt=media&token=cd614b5f-a46f-41ed-ba32-62a5d51e72b1"
+    }
+  },
+  "P1_9_P2_2": {
+    "feedback": {
+      "text": "Coordination Failed. One player chose 9 and the other 2. Players get their default points.",
+      "pointsOne": 1,
+      "pointsTwo": 1,
+      "historyImage1": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769018366004_P1_9_P2_2.png?alt=media&token=b98b52ab-e5b9-4c0b-b488-21a65eb0afb6",
+      "historyImage2": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769018700234_P1_2_P2_9.png?alt=media&token=d437b452-f298-4c2a-aacd-96d829d63b2f"
+    }
+  },
+  "P2_2_P1_9": {
+    "feedback": {
+      "text": "Coordination Failed. One player chose 9 and the other 2. Players get their default points.",
+      "pointsOne": 1,
+      "pointsTwo": 1,
+      "historyImage1": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769018366004_P1_9_P2_2.png?alt=media&token=b98b52ab-e5b9-4c0b-b488-21a65eb0afb6",
+      "historyImage2": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769018700234_P1_2_P2_9.png?alt=media&token=d437b452-f298-4c2a-aacd-96d829d63b2f"
+    }
+  },
+  "P1_9_P2_3": {
+    "feedback": {
+      "text": "Coordination Failed. One player chose 9 and the other 3. Players get their default points.",
+      "pointsOne": 1,
+      "pointsTwo": 1,
+      "historyImage1": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769018910381_P1_9_P2_3.png?alt=media&token=39739797-9564-4b04-8350-42ffe0fc1f53",
+      "historyImage2": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769018642950_P1_3_P2_9.png?alt=media&token=59b95a31-5d9d-4e25-86a3-7dcfa3fbb83f"
+    }
+  },
+  "P2_3_P1_9": {
+    "feedback": {
+      "text": "Coordination Failed. One player chose 9 and the other 3. Players get their default points.",
+      "pointsOne": 1,
+      "pointsTwo": 1,
+      "historyImage1": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769018910381_P1_9_P2_3.png?alt=media&token=39739797-9564-4b04-8350-42ffe0fc1f53",
+      "historyImage2": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769018642950_P1_3_P2_9.png?alt=media&token=59b95a31-5d9d-4e25-86a3-7dcfa3fbb83f"
+    }
+  },
+  "P1_9_P2_4": {
+    "feedback": {
+      "text": "Coordination Failed. One player chose 9 and the other 4. Players get their default points.",
+      "pointsOne": 1,
+      "pointsTwo": 1,
+      "historyImage1": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769019470713_P1_9_P2_4.png?alt=media&token=59119683-6824-4cae-9f9f-6084fc1ea74d",
+      "historyImage2": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769019259713_P1_4_P2_9.png?alt=media&token=11e8b17c-553d-4c3e-a859-fe29deff400e"
+    }
+  },
+  "P2_4_P1_9": {
+    "feedback": {
+      "text": "Coordination Failed. One player chose 9 and the other 4. Players get their default points.",
+      "pointsOne": 1,
+      "pointsTwo": 1,
+      "historyImage1": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769019470713_P1_9_P2_4.png?alt=media&token=59119683-6824-4cae-9f9f-6084fc1ea74d",
+      "historyImage2": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769019259713_P1_4_P2_9.png?alt=media&token=11e8b17c-553d-4c3e-a859-fe29deff400e"
+    }
+  },
+  "P1_9_P2_5": {
+    "feedback": {
+      "text": "Coordination Failed. One player chose 9 and the other 5. Players get their default points.",
+      "pointsOne": 1,
+      "pointsTwo": 1,
+      "historyImage1": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769020338779_P1_9_P2_5.png?alt=media&token=a58a0e21-d367-490b-8783-5a38540b2460",
+      "historyImage2": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769020415510_P1_5_P2_9.png?alt=media&token=9af2f767-f876-4bc1-9686-a6c7e244b4ce"
+    }
+  },
+  "P2_5_P1_9": {
+    "feedback": {
+      "text": "Coordination Failed. One player chose 9 and the other 5. Players get their default points.",
+      "pointsOne": 1,
+      "pointsTwo": 1,
+      "historyImage1": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769020338779_P1_9_P2_5.png?alt=media&token=a58a0e21-d367-490b-8783-5a38540b2460",
+      "historyImage2": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769020415510_P1_5_P2_9.png?alt=media&token=9af2f767-f876-4bc1-9686-a6c7e244b4ce"
+    }
+  },
+  "P1_9_P2_6": {
+    "feedback": {
+      "text": "Coordination Failed. One player chose 9 and the other 6. Players get their default points.",
+      "pointsOne": 1,
+      "pointsTwo": 1,
+      "historyImage1": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769019778723_P1_9_P2_6.png?alt=media&token=d7e53580-93c5-46a2-8741-611332006849",
+      "historyImage2": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769020318691_P1_6_P2_9.png?alt=media&token=aef4a7dc-eb3e-4e7f-a278-e45b505b87b7"
+    }
+  },
+  "P2_6_P1_9": {
+    "feedback": {
+      "text": "Coordination Failed. One player chose 9 and the other 6. Players get their default points.",
+      "pointsOne": 1,
+      "pointsTwo": 1,
+      "historyImage1": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769019778723_P1_9_P2_6.png?alt=media&token=d7e53580-93c5-46a2-8741-611332006849",
+      "historyImage2": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769020318691_P1_6_P2_9.png?alt=media&token=aef4a7dc-eb3e-4e7f-a278-e45b505b87b7"
+    }
+  },
+  "P1_9_P2_7": {
+    "feedback": {
+      "text": "Coordination Failed. One player chose 9 and the other 7. Players get their default points.",
+      "pointsOne": 1,
+      "pointsTwo": 1,
+      "historyImage1": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769018853766_P1_9_P2_7.png?alt=media&token=e9846b9d-8312-432d-a163-ea96012402c4",
+      "historyImage2": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769019009689_P1_7_P2_9.png?alt=media&token=e0f956e0-01e2-4d36-93af-3243217f1942"
+    }
+  },
+  "P2_7_P1_9": {
+    "feedback": {
+      "text": "Coordination Failed. One player chose 9 and the other 7. Players get their default points.",
+      "pointsOne": 1,
+      "pointsTwo": 1,
+      "historyImage1": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769018853766_P1_9_P2_7.png?alt=media&token=e9846b9d-8312-432d-a163-ea96012402c4",
+      "historyImage2": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769019009689_P1_7_P2_9.png?alt=media&token=e0f956e0-01e2-4d36-93af-3243217f1942"
+    }
+  },
+  "P1_9_P2_8": {
+    "feedback": {
+      "text": "Coordination Failed. One player chose 9 and the other 8. Players get their default points.",
+      "pointsOne": 1,
+      "pointsTwo": 1,
+      "historyImage1": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769017247976_P1_9_P2_8.png?alt=media&token=01e81d5b-550b-4e6b-ad5d-2943f85c5448",
+      "historyImage2": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769019523374_P1_8_P2_9.png?alt=media&token=72d339b9-7ff3-4354-ae4d-c12b5e054d7c"
+    }
+  },
+  "P2_8_P1_9": {
+    "feedback": {
+      "text": "Coordination Failed. One player chose 9 and the other 8. Players get their default points.",
+      "pointsOne": 1,
+      "pointsTwo": 1,
+      "historyImage1": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769017247976_P1_9_P2_8.png?alt=media&token=01e81d5b-550b-4e6b-ad5d-2943f85c5448",
+      "historyImage2": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769019523374_P1_8_P2_9.png?alt=media&token=72d339b9-7ff3-4354-ae4d-c12b5e054d7c"
+    }
+  },
+  "P1_9_P2_9": {
+    "feedback": {
+      "text": "Coordination Failed. One player chose 9 and the other 9. Players get their default points.",
+      "pointsOne": 1,
+      "pointsTwo": 1,
+      "historyImage1": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769016820617_P1_9_P2_9.png?alt=media&token=e6fa08f9-c89b-40d3-82ba-4392a4e6ec4e",
+      "historyImage2": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769016820617_P1_9_P2_9.png?alt=media&token=e6fa08f9-c89b-40d3-82ba-4392a4e6ec4e"
+    }
+  },
+  "P2_9_P1_9": {
+    "feedback": {
+      "text": "Coordination Failed. One player chose 9 and the other 9. Players get their default points.",
+      "pointsOne": 1,
+      "pointsTwo": 1,
+      "historyImage1": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769016820617_P1_9_P2_9.png?alt=media&token=e6fa08f9-c89b-40d3-82ba-4392a4e6ec4e",
+      "historyImage2": "https://firebasestorage.googleapis.com/v0/b/coordyapp-5863e.firebasestorage.app/o/projects%2FjEvPeqhrv0h6ZTg1Wtbw%2Fassets%2F1769016820617_P1_9_P2_9.png?alt=media&token=e6fa08f9-c89b-40d3-82ba-4392a4e6ec4e"
+    }
+  }
+}
