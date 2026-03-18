@@ -193,7 +193,8 @@ def make_block_matching(
 def generate_pairing_json(
     player_ids: List[str],
     team_map: Dict[str, str],
-    rounds: int,
+    rounds: int,          # number of PLAYING rounds (excludes intro + change_partner)
+    intro_rounds: int,    # number of instruction rounds at the very beginning
     block_size: int,
     seed: Optional[int],
     pair_status: str = "pending",
@@ -203,6 +204,8 @@ def generate_pairing_json(
 ) -> dict:
     if rounds < 1:
         raise ValueError("rounds must be >= 1")
+    if intro_rounds < 0:
+        raise ValueError("intro_rounds must be >= 0")
     if block_size < 1:
         raise ValueError("block_size must be >= 1")
 
@@ -215,20 +218,44 @@ def generate_pairing_json(
     prev_sig: Optional[set[frozenset[str]]] = None
     current_block_pairs: List[Tuple[str, str]] = []
 
-    for r in range(1, rounds + 1):
-        # global alternating layout version
-        suffix = 1 if (r % 2 == 1) else 2
+    round_num = 0            # counts ALL emitted rounds (intro + change_partner + playing)
+    playing_round_index = 0  # counts ONLY playing rounds (for _1/_2 alternation)
 
-        if (r - 1) % block_size == 0:
-            current_block_pairs = make_block_matching(player_ids, rng, prev_block_sig=prev_sig)
-            prev_sig = pairs_signature(current_block_pairs)
+    def emit_round(pairs_obj: Dict[str, dict]) -> None:
+        nonlocal round_num
+        round_num += 1
+        rounds_obj[f"round{round_num}"] = {
+            "pairs": pairs_obj,
+            "waitingPlayers": [],
+            "unpairedPlayers": [],
+            "status": round_status,
+        }
+
+    def build_pairs_obj(
+        layout_id_override: Optional[str],
+        pairs_for_round: List[Tuple[str, str]],
+    ) -> Dict[str, dict]:
+        """
+        If layout_id_override is provided -> use that layoutId for all pairs.
+        If None -> it's a playing round and we use alternating _1/_2 + _big_buttons.
+        """
+        nonlocal playing_round_index
+
+        suffix = None
+        if layout_id_override is None:
+            playing_round_index += 1
+            suffix = 1 if (playing_round_index % 2 == 1) else 2
 
         pairs_obj: Dict[str, dict] = {}
-        for idx, (a, b) in enumerate(current_block_pairs):
+        for idx, (a, b) in enumerate(pairs_for_round):
             base_layout, p1, p2, pos1, pos2 = pick_base_layout_and_positions(
                 a, b, team_map=team_map, layouts=layouts
             )
-            layout_id = f"{base_layout}_{suffix}"
+
+            if layout_id_override is not None:
+                layout_id = layout_id_override
+            else:
+                layout_id = f"{base_layout}_{suffix}_big_buttons"
 
             pairs_obj[f"pair_{idx:03d}"] = {
                 "createdAt": created_at,
@@ -240,7 +267,34 @@ def generate_pairing_json(
                 "status": pair_status,
             }
 
-        rounds_obj[f"round{r}"] = {"pairs": pairs_obj, "status": round_status}
+        return pairs_obj
+
+    # --- First block pairs (used for intro rounds and the first change_partner) ---
+    current_block_pairs = make_block_matching(player_ids, rng, prev_block_sig=None)
+    prev_sig = pairs_signature(current_block_pairs)
+
+    # --- Intro rounds: Instruction_1..Instruction_intro_rounds (shown to both players in each pair) ---
+    for i in range(1, intro_rounds + 1):
+        emit_round(build_pairs_obj(layout_id_override=f"Instruction_{i}", pairs_for_round=current_block_pairs))
+
+    # --- Playing rounds, grouped in blocks; each block begins with change_partner ---
+    playing_done = 0
+    block_index = 0
+
+    while playing_done < rounds:
+        if block_index > 0:
+            emit_round(build_pairs_obj(layout_id_override="change_partner", pairs_for_round=current_block_pairs))
+
+        n_in_block = min(block_size, rounds - playing_done)
+        for _ in range(n_in_block):
+            emit_round(build_pairs_obj(layout_id_override=None, pairs_for_round=current_block_pairs))
+            playing_done += 1
+
+        if playing_done < rounds:
+            current_block_pairs = make_block_matching(player_ids, rng, prev_block_sig=prev_sig)
+            prev_sig = pairs_signature(current_block_pairs)
+
+        block_index += 1
 
     return {
         "experimentType": experiment_type,

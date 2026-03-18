@@ -8,6 +8,7 @@ def main() -> None:
     ap = argparse.ArgumentParser(description="Generate pairing.json from players file with group.color assignments")
     ap.add_argument("--players", required=True, type=Path, help="Players JSON with group.color set to red/blue.")
     ap.add_argument("--rounds", required=True, type=int)
+    ap.add_argument("--intro-rounds", default=0, type=int, help="Number of intro instruction rounds (default: 0).")
     ap.add_argument("--block-size", default=5, type=int)
     ap.add_argument("--seed", default=None, type=int)
 
@@ -39,6 +40,7 @@ def main() -> None:
         player_ids=player_ids,
         team_map=team_map,
         rounds=args.rounds,
+        intro_rounds=args.intro_rounds,
         block_size=args.block_size,
         seed=args.seed,
         pair_status=args.pair_status,
@@ -54,6 +56,7 @@ def main() -> None:
         "outputs": {"pairingOut": str(pairing_out_path), "metadataOut": str(meta_out_path)},
         "parameters": {
             "rounds": args.rounds,
+            "introRounds": args.intro_rounds,
             "blockSize": args.block_size,
             "seed": args.seed,
             "pairStatus": args.pair_status,
