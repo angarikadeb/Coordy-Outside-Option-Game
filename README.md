@@ -3,9 +3,8 @@ This is for the specific game, 'traits as outside options'
 
 ## How to use
 
-  
 
-There are two CLI scripts. Run them in this order:
+There are two CLI scripts and a "backend" file. Download all of them (`assign_teams_cli.py`, `generate_pairs_cli.py`, and `pairing_lib.py`). Run them in this order:
 
   
 
