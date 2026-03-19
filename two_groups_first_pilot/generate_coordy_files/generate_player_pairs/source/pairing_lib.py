@@ -296,6 +296,9 @@ def generate_pairing_json(
 
         block_index += 1
 
+    # Final closing screen (shown to both players in each last-block pair)
+    emit_round(build_pairs_obj(layout_id_override="thank_you", pairs_for_round=current_block_pairs))
+
     return {
         "experimentType": experiment_type,
         "pairingMode": pairing_mode,
