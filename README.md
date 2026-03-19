@@ -12,7 +12,7 @@ There are two CLI scripts and a "backend" file. Download all of them (`assign_te
 
   
 
-This reads an input players JSON and assigns each player to a team (`red` / `blue`) according to the chosen proportion.
+This reads an input players JSON (go to Player Management in coordy webapp, and download players) and assigns each player to a team (`red` / `blue`) according to the chosen proportion.
 
   
 
